@@ -27,10 +27,10 @@ params:
   backgroundColor: '#ffffff'
   menu:
     icon:
-      - url: 'mailto:clement.larrive@ulb.be'
+      - url: 'mailto:cap@ulb.be'
         name: envelope-o
         weight: 1
-      - url: 'https://github.com/w3cdotorg/uv-tools'
+      - url: 'https://capulb.github.io/uv-tools/fr/'
         name: github
         weight: 2
   js: 'js/custom.js'
@@ -72,7 +72,7 @@ languages:
           title: Connect to the UV
           name: external-link
           weight: 3
-        - url: https://github.com/w3cdotorg/uv-tools
+        - url: https://capulb.github.io/uv-tools/en/
           name: github
           weight: 4
 
@@ -111,49 +111,6 @@ languages:
           title: Connexion à l'UV
           name: external-link
           weight: 3
-        - url: https://github.com/w3cdotorg/uv-tools
-          name: github
-          weight: 4
-
-  nl:
-    languageName: Nederlands
-    weight: 6
-    params:
-      title: UV Gereedschapsgids
-      slogan: UV Gereedschapsgids voor onderwijzers en trainers
-      description: 'UV Gereedschapsgid voor leerkrachten: Een korte handleiding voor leerkrachten en trainers over het gebruik van UV (Moodle versie 3 en nieuwer).'
-      keywords:
-      - Moodle
-      - Moodle Gereedschappen
-      - Moodle Gereedschapsgids
-      - Moodle Gereedschap Gids
-      - Moodle Gereerdschap Gids voor onderwijzers
-      - Moodle Gereedschap voor docenten
-      - Moodle Gids
-      - Moodle Gids voor leraren
-      - Moodle Gids voor docenten
-      - Moodle Gids voor trainers
-      - Moodle Gereedschapsgids voor onderwijzers
-      - Moodle Gereedschapsgids voor leraren
-      - Moodle Gereedschapsgids voor Onderwijzers en Leraren
-      - Université Virtuelle
-      - UV
-      - Université libre de Bruxelles
-      date_format: 2 January 2006
-    contentDir: content/nl
-    menu:
-      main:
-        - url: 
-          name: Home
-          weight: 1
-        - url: about/
-          name: Over
-          weight: 2
-      icon:
-        - url: https://uv.ulb.ac.be
-          title: Aansluiten aan UV
-          name: external-link
-          weight: 3
-        - url: https://github.com/w3cdotorg/uv-tools
+        - url: https://capulb.github.io/uv-tools/fr/
           name: github
           weight: 4
