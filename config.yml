@@ -1,4 +1,4 @@
-baseURL: 'https://w3cdotorg.github.io/uv-tools/'
+baseURL: 'https://capulb.github.io/uv-tools/fr/'
 languageCode: en-us
 
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -20,8 +20,8 @@ markup:
       hardWraps: true
 
 params:
-  author: Clément Larrivé, Équipe CAP
-  githubUsername: 'w3cdotorg'
+  author: Équipe CAP
+  githubUsername: 'capULB'
   accent: '#f98012'
   showBorder: 'true'
   backgroundColor: '#ffffff'
@@ -81,8 +81,8 @@ languages:
     weight: 2
     params:
       title: Guide des outils UV
-      slogan: Guide des outils sur l'Université Virtuelle pour enseignant·es et formateur·rices
-      description: "Guide des outils UV : un aide-mémoire pour l'utilisation de l'Université Virtuelle (Moodle version 3 et ultérieures), destiné aux enseignantes et enseignants et aux formatrices et formateurs."
+      slogan: Guide des ressources et activités disponibles sur l'Université Virtuelle de l'ULB
+      description: "Guide des outils UV : un aide-mémoire pour l'utilisation de l'Université Virtuelle de l'ULB, destiné aux enseignant·es et aux formateur·rices."
       keywords:
       - Moodle
       - Outils Moodle
