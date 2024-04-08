@@ -72,9 +72,7 @@ languages:
           title: Connect to the UV
           name: external-link
           weight: 3
-        - url: https://capulb.github.io/uv-tools/en/
-          name: github
-          weight: 4
+       
 
   fr:
     languageName: Français
@@ -111,6 +109,4 @@ languages:
           title: Connexion à l'UV
           name: external-link
           weight: 3
-        - url: https://capulb.github.io/uv-tools/fr/
-          name: github
-          weight: 4
+     
