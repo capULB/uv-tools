@@ -40,8 +40,8 @@ languages:
     languageName: English
     weight: 1
     params: 
-      title: UV Tool Guide
-      slogan: UV Tool Guide for teachers and educators
+      title: UV (ULB) Tool Guide
+      slogan: UV (ULB) Tool Guide for teachers and educators
       description: 'UV Tool Guide : A Quick Reference Guide for teachers and educators to use the Université Virtuelle at ULB.'
       keywords:
       - Moodle
@@ -69,7 +69,7 @@ languages:
           weight: 2
       icon:
         - url: https://uv.ulb.ac.be
-          title: Connect to the UV
+          title: UV
           name: external-link
           weight: 3
        
@@ -106,7 +106,7 @@ languages:
           weight: 2
       icon:
         - url: https://uv.ulb.ac.be
-          title: Connexion à l'UV
+          title: UV
           name: external-link
           weight: 3
      
