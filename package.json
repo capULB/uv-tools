@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "github:w3cdotorg/uv-tools.git"
+    "url": "github:capULB/uv-tools.git"
   },
-  "author": "Clément Larrivé",
+  "author": "Equipe CAP",
   "license": "CC-BY-NC-SA-4.0",
   "bugs": {
-    "url": "https://github.com/w3cdotorg/uv-tools/issues"
+    "url": "https://github.com/capULB/uv-tools/issues"
   },
-  "homepage": "https://w3cdotorg.github.io/uv-tools"
+  "homepage": "https://capULB.github.io/uv-tools"
 }
