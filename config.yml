@@ -42,7 +42,7 @@ languages:
     params: 
       title: UV Tool Guide
       slogan: UV Tool Guide for teachers and educators
-      description: 'UV Tool Guide: A Quick Reference Guide for teachers and educators to use the Université Virtuelle at ULB.'
+      description: 'UV Tool Guide : A Quick Reference Guide for teachers and educators to use the Université Virtuelle at ULB.'
       keywords:
       - Moodle
       - Moodle Tools
@@ -81,7 +81,7 @@ languages:
     weight: 2
     params:
       title: Guide des outils UV
-      slogan: Guide des ressources et activités disponibles sur l'Université Virtuelle de l'ULB
+      slogan: Guide des outils de l'Université Virtuelle de l'ULB pour enseignant·es et formateur·rices
       description: "Guide des outils UV : un aide-mémoire pour l'utilisation de l'Université Virtuelle de l'ULB, destiné aux enseignant·es et aux formateur·rices."
       keywords:
       - Moodle
