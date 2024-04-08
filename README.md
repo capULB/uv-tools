@@ -1,6 +1,6 @@
 # Université Virtuelle Tool Guide
 
-[Université Virtuelle (UV) Tool Guide][site] is an [open licensed][cc] bilingual reference card for using [the Université Virtuelle][UV], the virtual campus at ULB, based on Moodle version 4 and later, designed for teachers, educators and trainers. It provides info on what UV tool to use according to the pedagogical goal to achieve.
+[Université Virtuelle (UV) Tool Guide][site] is an [open licensed][cc] bilingual reference card for using [the Université Virtuelle][UV], the virtual campus at Université libre de Bruxelles (ULB), based on Moodle version 4 and later, designed for teachers, educators and trainers. It provides info on what UV tool to use according to the pedagogical goal to achieve.
 
 [UV Tool Guide][site] is available in 2 languages : French and English.
 
