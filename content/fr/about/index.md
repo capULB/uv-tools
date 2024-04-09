@@ -3,13 +3,14 @@ title: À propos
 description: Qu'est-ce que le Guide des outils UV ?
 ---
 
-Le _Guide des outils UV_ est un aide-mémoire pour choisir les ressources et activités à mettre en place sur l'[Université Virtuelle][UV] (Moodle version 4 et ultérieures). Destiné aux enseignant·es et aux formateur·rices, il détaille dans un tableau à double entrée les principaux outils disponibles et leur utilisation pédagogique. Il mentionne également les [niveaux taxonomiques de Bloom][bloom] pouvant être atteints lors de l'utilisation des différents outils.
+Le _Guide des outils UV_ est un aide-mémoire pour créer du contenu dans l'Université Virtuelle ([UV][UV]), plateforme officielle d'apprentissage de l'ULB, basé sur Moodle version 4.x (sept 2023). Destiné aux enseignant·es et aux formateur·rices, ce tableau à double entrée détaille les ressources et activités disponibles, leur utilisation pédagogique et mentionne les [niveaux taxonomiques de Bloom][bloom] pouvant être atteints.
 
-Une idée de [Joyce Seitzinger](https://twitter.com/catspyjamasnz) de l'[Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), traduite en français par [Nicolas Martignoni][nm], adaptée pour Moodle 2.x par Fabien Balli et pour [l'Université Virtuelle][UV] par l'équipe du [Centre d'appui pédagogique (CAP)][CAP] de l'ULB. Mise à jour en mai 2020 pour Moodle 3.x par [Nicolas Martignoni][nm], et en janvier 2024 par l'équipe CAP.
 
-Le Guide des outils Moodle est publié sous licence [Creative Commons BY-NC-SA 4.0 International][cc].
 
-Ce site web est proposé par le Centre d'appui pédagogique. Il nécessite l'utilisation d'un [navigateur récent][browser].
+Une idée de [Joyce Seitzinger](https://twitter.com/catspyjamasnz) de l'[Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), traduite en français par [Nicolas Martignoni][nm], adaptée pour Moodle 2.x par Fabien Balli, mise à jour en mai 2020 pour Moodle 3.x par Nicolas Martignoni; adaptée pour l'UV par l'équipe du [Centre d'appui pédagogique (CAP)][CAP] de l'ULB. 
+
+Ce Guide est publié sous licence [Creative Commons BY-NC-SA 4.0 International][cc].
+Ce site web est proposé par le Centre d'appui pédagogique (CAP). Il nécessite l'utilisation d'un [navigateur récent][browser].
 
  [moodle]: https://moodle.org/
  [bloom]: https://fr.wikipedia.org/wiki/Taxonomie_de_Bloom
