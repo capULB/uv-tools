@@ -3,7 +3,7 @@ title: À propos
 description: Qu'est-ce que le Guide des outils UV ?
 ---
 
-Le _Guide des outils UV_ est un aide-mémoire pour créer du contenu dans l'**Université Virtuelle** ([UV]), plateforme officielle d'apprentissage de l'Université libre de Bruxelles ([ULB]), basé sur le LMS [Moodle](Moodle) version 4.x (sept 2023). Destiné aux enseignant·es et aux formateur·rices, ce tableau détaille les **ressources et activités disponibles**, leur **utilisation pédagogique** et mentionne les **niveaux taxonomiques de [bloom]** pouvant être atteints.
+Le _Guide des outils UV_ est un aide-mémoire pour créer du contenu dans l'**Université Virtuelle** ((UV)[UV]), plateforme officielle d'apprentissage de l'Université libre de Bruxelles ([ULB]), basé sur le LMS [Moodle](Moodle) version 4.x (sept 2023). Destiné aux enseignant·es et aux formateur·rices, ce tableau détaille les **ressources et activités disponibles**, leur **utilisation pédagogique** et mentionne les **niveaux taxonomiques de [bloom]** pouvant être atteints.
 
 
 
