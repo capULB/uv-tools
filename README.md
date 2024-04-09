@@ -1,6 +1,6 @@
 # UV Tool Guide
 
-[UV Tool Guide](site) is a reference card for creating content in Université Virtuelle ([UV]), official e-learning plateform of Université libre de Bruxelles ([ULB]), based on [Moodle] version 4.x (sept 2023). Designed for teachers, educators and trainers, this table lists available ressources and activities, what tool to use according to the pedagogical goal to achieve, with mentions the Bloom taxonomic levels that can be reached.
+[UV Tool Guide](site) is a reference card for creating content in Université Virtuelle ([UV]), official e-learning plateform of Université libre de Bruxelles ([ULB]), based on [Moodle] version 4.x (Sept 2023). Designed for teachers, educators and trainers, this table lists available ressources and activities, what tool to use according to the pedagogical goal to achieve, with mentions the Bloom taxonomic levels that can be reached.
 
 This website is available in 2 languages : French and English. It is based on the [Moodle Tool Guide][site2] maintained by Nicolas Martignoni. 
 
