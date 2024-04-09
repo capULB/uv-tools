@@ -3,11 +3,11 @@ title: À propos
 description: Qu'est-ce que le Guide des outils UV ?
 ---
 
-Ce _Guide_ est un aide-mémoire pour créer du contenu dans l'**(Université Virtuelle)[UV]**, plateforme officielle d'apprentissage de l'Université libre de Bruxelles ([ULB]), basé sur le LMS [Moodle](Moodle) version 4.x (sept 2023). 
+Ce _Guide_ est un aide-mémoire pour créer du contenu dans l'**[Université Virtuelle][UV]** (UV), plateforme officielle d'apprentissage de l'[Université libre de Bruxelles][ULB] (ULB), basé sur le LMS [Moodle](Moodle) version 4.x (sept 2023). 
 
 Destiné aux enseignant·es et aux formateur·rices, ce tableau détaille les **ressources et activités disponibles**, leur **utilisation pédagogique** et mentionne les **niveaux taxonomiques de [Bloom]** pouvant être atteints.
 
-Ce site web est proposé par le Centre d'appui pédagogique (CAP) de l'ULB en 2 langues : français et anglais. Il nécessite l'utilisation d'un [navigateur récent][browser].
+Ce site web est proposé par le [Centre d'appui pédagogique][CAP] (CAP) de l'ULB en 2 langues : français et anglais. Il nécessite l'utilisation d'un [navigateur récent][browser].
 
  [Moodle]: https://moodle.org/
  [Bloom]: https://fr.wikipedia.org/wiki/Taxonomie_de_Bloom
