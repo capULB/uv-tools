@@ -7,7 +7,7 @@ This Guide is a reference card for creating content on [Université Virtuelle][U
 
 Designed for teachers, educators and trainers, this table lists **available ressources and activities**, what tool to use according to the **pedagogical goal** to achieve, with mentions the **[Bloom] taxonomic levels** that can be reached.
 
-This website is provided by ULB [Centre d'appui pédagogique][CAP] (CAP) in 2 languages : French and English. It is based on the (Moodle_Tool_Guide) [Moodle tool guide] maintained by [Nicolas Martignoni][nm]. It requires the use of a [recent browser][browser].
+This website is provided by ULB [Centre d'appui pédagogique][CAP] (CAP) in 2 languages : French and English. It requires the use of a [recent browser][browser].
 
  [Moodle]: https://moodle.org/
  [bloom]: https://en.wikipedia.org/wiki/Bloom%27s_taxonomy
