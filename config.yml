@@ -42,7 +42,7 @@ languages:
     params: 
       title: UV (ULB) Tool Guide
       slogan: UV (ULB) Tool Guide for teachers and educators
-      description: 'UV (ULB) Tool Guide : reference card for creating content on Université Virtuelle (UV), official e-learning plateform of Université libre de Bruxelles (ULB), based on Moodle version 4.x (sept 2023).'
+      description: 'UV Tool Guide: A Quick Reference Guide for teachers and educators to use the Université Virtuelle at ULB.'
       keywords:
       - Moodle
       - Moodle Tools
@@ -78,9 +78,9 @@ languages:
     languageName: Français
     weight: 2
     params:
-      title: Guide des outils UV (ULB)
-      slogan: Guide des outils UV (ULB) pour enseignant·es et formateur·rices
-      description: "Guide des outils UV : aide-mémoire pour créer du contenu dans l’ Université Virtuelle (UV), plateforme officielle d’apprentissage de l’ Université libre de Bruxelles (ULB), basé sur le LMS Moodle version 4.x (sept 2023)."
+      title: Guide des outils UV
+      slogan: Guide des outils sur l'Université Virtuelle pour enseignant·es et formateur·rices
+      description: "Guide des outils UV : un aide-mémoire pour l'utilisation de l'Université Virtuelle (Moodle version 3 et ultérieures), destiné aux enseignantes et enseignants et aux formatrices et formateurs."
       keywords:
       - Moodle
       - Outils Moodle
@@ -109,4 +109,3 @@ languages:
           title: UV
           name: external-link
           weight: 3
-     
