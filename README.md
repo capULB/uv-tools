@@ -1,4 +1,4 @@
-# UV Tool Guide
+# UV Tool Guide for Teachers and Educators
 
 [UV Tool Guide](site) is a reference card for creating content in Université Virtuelle ([UV]), official e-learning plateform of Université libre de Bruxelles ([ULB]), based on [Moodle] version 4.x (Sept 2023). Designed for teachers, educators and trainers, this table lists available ressources and activities, what tool to use according to the pedagogical goal to achieve, with mentions the Bloom taxonomic levels that can be reached.
 
