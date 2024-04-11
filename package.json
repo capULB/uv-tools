@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "github:capULB/uv-tools.git"
+    "url": "github:capulb/uv-tools.git"
   },
-  "author": "Equipe CAP",
+  "author": "Équipe CAP",
   "license": "CC-BY-NC-SA-4.0",
   "bugs": {
-    "url": "https://github.com/capULB/uv-tools/issues"
+    "url": "https://github.com/capulb/uv-tools/issues"
   },
-  "homepage": "https://capULB.github.io/uv-tools"
+  "homepage": "https://capulb.github.io/uv-tools"
 }
