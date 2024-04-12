@@ -30,7 +30,7 @@ params:
       - url: 'mailto:cap@ulb.be'
         name: envelope-o
         weight: 1
-      - url: 'https://capulb.github.io/uv-tools/fr/'
+      - url: 'https://github.com/capulb/uv-tools'
         name: github
         weight: 2
   js: 'js/custom.js'
@@ -40,8 +40,8 @@ languages:
     languageName: English
     weight: 1
     params: 
-      title: UV (ULB) Tool Guide
-      slogan: UV (ULB) Tool Guide for teachers and educators
+      title: UV - ULB Tool Guide
+      slogan: UV - ULB Tool Guide for teachers and educators
       description: 'UV Tool Guide: A Quick Reference Guide for teachers and educators to use the Université Virtuelle at ULB.'
       keywords:
       - Moodle
@@ -80,7 +80,7 @@ languages:
     params:
       title: Guide des outils UV
       slogan: Guide des outils sur l'Université Virtuelle pour enseignant·es et formateur·rices
-      description: "Guide des outils UV : un aide-mémoire pour l'utilisation de l'Université Virtuelle (Moodle version 3 et ultérieures), destiné aux enseignantes et enseignants et aux formatrices et formateurs."
+      description: "Guide des outils UV : un aide-mémoire pour l'utilisation de l'Université Virtuelle - Moodle version 3 et ultérieures -, destiné aux enseignantes et enseignants et aux formatrices et formateurs."
       keywords:
       - Moodle
       - Outils Moodle
