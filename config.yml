@@ -21,7 +21,7 @@ markup:
 
 params:
   author: Équipe CAP
-  githubUsername: 'capULB'
+  githubUsername: 'capulb'
   accent: '#f98012'
   showBorder: 'true'
   backgroundColor: '#ffffff'
