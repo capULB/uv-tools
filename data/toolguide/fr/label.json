@@ -5,23 +5,23 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile, permet d'agrémenter la page de cours.",
+    "text": "Facile pour le texte et les images ; intermédiaire pour l'intégration de H5P ou de vidéo",
     "style": "good"
   }, {
     "id": "3",
-    "text": "Oui. Seuls les formateurs peuvent écrire un texte. Outil à sens unique.",
+    "text": "Oui. Seul·es les éditeur·rices peuvent écrire un texte. Flux à sens unique.",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Pas directement. À utiliser pour décrire une tâche ou transmettre une info.",
+    "text": "Non",
     "style": "bad"
   }, {
     "id": "5",
-    "text": "Non. C'est un outil d'information. Aucune possibilité d'interaction.",
+    "text": "Outil d'information. Pas de possibilité d'interaction.",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Pas directement. À utiliser pour décrire une tâche ou transmettre une info.",
+    "text": "Non",
     "style": "bad"
   }, {
     "id": "7",
