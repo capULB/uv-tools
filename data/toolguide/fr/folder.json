@@ -9,7 +9,7 @@
     "style": "good"
   }, {
     "id": "3",
-    "text": "Oui. Seul·es les éditeur·rices peuvent écrire un texte. Flux à sens unique",
+    "text": "Flux descendant : seul·es les éditeur·rices peuvent charger des fichiers",
     "style": "good"
   }, {
     "id": "4",
@@ -17,7 +17,7 @@
     "style": "bad"
   }, {
     "id": "5",
-    "text": "C'est plutôt un outil d'information descendant, ne permet pas une réelle interaction",
+    "text": "Ne permet pas une réelle interaction",
     "style": "bad"
   }, {
     "id": "6",
@@ -25,7 +25,7 @@
     "style": "bad"
   }, {
     "id": "7",
-    "text": "Aucun. Ce n'est pas une activité d'apprentissage.",
+    "text": "Se rappeler et comprendre",
     "style": "bad"
   }
 ]
