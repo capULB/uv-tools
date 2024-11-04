@@ -1,28 +1,28 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://uv.ulb.ac.be/mod/page/view.php?id=395669' target='_blank'><strong>Dossier</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Déposer plusieurs fichiers dans un répertoire",
+    "text": "<a href='https://uv.ulb.ac.be/mod/page/view.php?id=395669' target='_blank'><strong>Dossier</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Déposer plusieurs fichiers dans un répertoire organisé",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile, comme des pièces jointes de mail. Vos documents ont-ils du sens seuls ?",
+    "text": "Facile",
     "style": "good"
   }, {
     "id": "3",
-    "text": "Oui. Seuls les formateurs peuvent déposer des fichiers. Outil à sens unique.",
+    "text": "Oui. Seul·es les éditeur·rices peuvent écrire un texte. Flux à sens unique",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Peut-être. À utiliser pour fournir des documents en vue d'une évaluation.",
-    "style": "neutral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "5",
-    "text": "Non. C'est un outil d'information. Aucune possibilité d'interaction.",
+    "text": "C'est plutôt un outil d'information descendant, ne permet pas une réelle interaction",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Peut-être. À utiliser pour fournir des documents en vue d'une évaluation.",
-    "style": "neutral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "7",
     "text": "Aucun. Ce n'est pas une activité d'apprentissage.",
