@@ -1,31 +1,31 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://docs.moodle.org/4x/fr/Page' target='_blank'><strong>Page</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Insérer le contenu d'une page Internet",
+    "text": "<a href='https://docs.moodle.org/4x/fr/Page' target='_blank'><strong>Page</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Insérer un contenu en quantité importante, sur une thématique",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile, comme une page d'un traitement de texte.",
+    "text": "Relativement facile grâce à l'éditeur de texte",
     "style": "good"
   }, {
     "id": "3",
-    "text": "Moyen facile pour fournir une info aux participants.",
+    "text": "Fournir un contenu toujours actualisé (évite que plusieurs versions d'un fichier ne circulent",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Peut-être. Selon le contenu inséré. Exemple : page de texte à lire suivie d'un test (quiz).",
+    "text": "Des activités formatives peuvent être envisagées en insérant des questions interactives au milieu du texte. Selon la longueur du contenu, envisager plutôt le livre",
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Peut-être. Selon le contenu inséré. Exemple : page de texte à lire suivie d'un test (quiz).",
-    "style": "neutral"
+    "text": "C'est plutôt un outil d'information descendant, ne permet pas une réelle interaction",
+    "style": "bad"
   }, {
     "id": "6",
-    "text": "Peut-être. Selon le contenu inséré. Exemple : texte sur lequel avoir une réflexion commune.",
-    "style": "neutral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "7",
-    "text": "4 / 6<br />Se rappeler, comprendre, appliquer, analyser.",
+    "text": "Se rappeler, comprendre",
     "style": "neutral"
   }
 ]
