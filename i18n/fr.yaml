@@ -1,6 +1,6 @@
 # Column header strings
-- id: Resources
-  translation: "Les ressources"
+- id: RESOURCES
+  translation: "LES RESSOURCES"
 - id: Activities
   translation: "Les activités"
 - id: Inform
