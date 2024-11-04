@@ -9,15 +9,15 @@
     "style": "good"
   }, {
     "id": "3",
-    "text": "Oui. Seul·es les éditeur·rices peuvent écrire un texte. Flux à sens unique (voir Partage de fichiers pour un dépôt par les étudiant·es)",
+    "text": "Flux descendant : seul·es les éditeur·rices peuvent charger un fichier (voir Partage de fichiers pour un dépôt par les étudiant·es)",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Pas en tant que tel mais peut contribuer au devoir, atelier, forum dans ce cadre",
+    "text": "Pas en tant que tel mais peut contribuer au devoir, atelier, forum",
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "C'est plutôt un outil d'information descendant, ne permet pas une réelle interaction",
+    "text": "Ne permet pas une réelle interaction",
     "style": "bad"
   }, {
     "id": "6",
@@ -25,7 +25,7 @@
     "style": "neutral"
   }, {
     "id": "7",
-    "text": "Aucun. Ce n'est pas une activité d'apprentissage.",
-    "style": "bad"
+    "text": "Se rappeler et comprendre",
+    "style": "neutral"
   }
 ]
