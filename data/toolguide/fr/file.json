@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://uv.ulb.ac.be/mod/page/view.php?id=395669' target='_blank'><strong>Fichier</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Déposer un simple fichier",
+    "text": "<a href='https://uv.ulb.ac.be/mod/page/view.php?id=395669' target='_blank'><strong>Fichier</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Déposer un fichier, plus de 250 types acceptés",
     "style": "header"
   }, {
     "id": "2",
@@ -13,15 +13,15 @@
     "style": "good"
   }, {
     "id": "4",
-    "text": "Peut-être. À utiliser pour donner une tâche. Récupérer les fichiers avec un devoir ou un forum.",
+    "text": "Pas en tant que tel mais peut contribuer au devoir, atelier, forum dans ce cadre",
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Non. C'est un outil d'information. Aucune possibilité d'interaction.",
+    "text": "C'est plutôt un outil d'information descendant, peut servir de canevas à remplir individuellement ou en groupe, ne permet pas une réelle interaction",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Peut-être. À utiliser pour donner une tâche. Récupérer les fichiers avec un devoir ou un forum.",
+    "text": "Peut servir de canevas à remplir individuellement ou en groupe",
     "style": "neutral"
   }, {
     "id": "7",
