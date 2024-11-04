@@ -6,7 +6,7 @@
   }, {
     "id": "2",
     "text": "Facile",
-    "style": "good"
+    "style": "gray-column"
   }, {
     "id": "3",
     "text": "Flux descendant : seul·es les éditeur·rices peuvent charger un fichier (voir Partage de fichiers pour un dépôt par les étudiant·es)",
@@ -26,6 +26,6 @@
   }, {
     "id": "7",
     "text": "Se rappeler et comprendre",
-    "style": "neutral"
+    "style": "gray-column"
   }
 ]
