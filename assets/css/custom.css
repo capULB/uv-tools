@@ -31,12 +31,16 @@ $link-color: #00F;
   background-color: $neutral-color;
 }
 
+.n {
+  background-color: $gray-column-color;
+}
+
 /* Accessible colors */
 $accessible-header-color: #8ab9f1; /* Jordy Blue. This should not be transparent */
 $accessible-good-color: #ace1af; /* Celadon */
 $accessible-neutral-color: #fedc56; /* Mustard */
 $accessible-bad-color: #ff7f7f; /* Light red */
-$accessible-gray-column-color: $gray-column-color;
+$accessible-gray-column-color: #ebebeb;
 
 .accessible-colors .b {
   background-color: $accessible-header-color;
@@ -52,6 +56,10 @@ $accessible-gray-column-color: $gray-column-color;
 
 .accessible-colors .y {
   background-color: $accessible-neutral-color;
+}
+
+.accessible-colors .n {
+  background-color: $accessible-header-color;
 }
 
 /**
@@ -178,6 +186,10 @@ table.display td.bad, .bad {
 
 table.display td.neutral, .neutral {
   @extend .y !optional;
+}
+
+table.display td.gray-column, .gray-column {
+  @extend .n !optional;
 }
 
 table.display>tbody>tr>td>a {
@@ -373,6 +385,9 @@ Layout for printing
   }
   table.display td.neutral {
     background-color: $neutral-color !important;
+  }
+  table.display td.gray-column {
+    background-color: $gray-column-color !important;
   }
   table {
     font-family: Georgia, "Times New Roman", Times, serif;
