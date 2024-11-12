@@ -1,27 +1,27 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://docs.moodle.org/4x/fr/Forum' target='_blank'><strong>Forum</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Favoriser les discussions : débats, rapports, jeux de rôles, analyse d'info, listes d'idées, etc.",
+    "text": "<a href='https://docs.moodle.org/4x/fr/Forum' target='_blank'><strong>Forum</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Informer ou créer de l'échange",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile. Les réglages initiaux sont adéquats. Un nom et une description suffisent.",
+    "text": "Facile. Le canal Annonces est présent par défaut et préréglé à cet usage ; les forums comme activité d'apprentissage sont réglables facilement",
     "style": "good"
   }, {
     "id": "3",
-    "text": "Partager des liens ou fichiers. Risque de perte d'information si beaucoup de messages.",
-    "style": "neutral"
+    "text": "C'est la vocation du canal Annonces (flux descendant enseignant·e > étudiant·es) ; créer un nouveau forum permet aux étudiant·es de déposer du contenu à partager",
+    "style": "good"
   }, {
     "id": "4",
-    "text": "La polyvalence du forum permet l'évaluation.",
+    "text": "Il est possible d'évaluer les messages par notes ou barème ; plutôt utile pour partager une appréciation de type 'j'aime' ou 'utile'",
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Oui. Les participants communiquent avec vous et entre eux, en classe entière ou en groupes.",
+    "text": "Favorise le débat, les jeux de rôles, l'analyse critique, etc.",
     "style": "good"
   }, {
     "id": "6",
-    "text": "Oui. Les participants peuvent collaborer et explorer des thématiques, écrire ensemble.",
+    "text": "collaborer et explorer des thématiques, écrire ensemble",
     "style": "good"
   }, {
     "id": "7",
