@@ -6,7 +6,7 @@
   }, {
     "id": "2",
     "text": "Facile, comme plusieurs pages structurées d'un traitement de texte.",
-    "style": "good"
+    "style": "gray-column"
   }, {
     "id": "3",
     "text": "Fournir un contenu toujours actualisé (évite que plusieurs versions d'un fichier ne circulent) ou plus attractif (contenus présentés de façon plus ludique en intégrant vidéo, H5P, etc.)",
@@ -26,6 +26,6 @@
   }, {
     "id": "7",
     "text": "- Se rappeler<br />- Comprendre<br />- Appliquer<br />- Analyser",
-    "style": "neutral"
+    "style": "gray-column"
   }
 ]
