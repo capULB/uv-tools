@@ -5,8 +5,8 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "Relativement facile grâce à l'éditeur de texte",
-    "style": "good"
+    "text": "Edition web, relativement facile grâce à l'éditeur de texte",
+    "style": "gray-column"
   }, {
     "id": "3",
     "text": "Fournir un contenu toujours actualisé (évite que plusieurs versions d'un fichier ne circulent",
