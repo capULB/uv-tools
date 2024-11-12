@@ -1,24 +1,24 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://docs.moodle.org/4x/fr/Page' target='_blank'><strong>Page</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Insérer un contenu en quantité importante, sur une thématique",
+    "text": "<a href='https://docs.moodle.org/4x/fr/Page' target='_blank'><strong>Page</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Proposer un contenu en quantité importante ou plus dynamique",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Edition web, relativement facile grâce à l'éditeur de texte",
+    "text": "s'apprente à de l'<a href='https://www.wearethewords.com/rediger-pour-le-web-grands-principes-et-bonnes-pratiques/' target='_blank'>édition web</a> <i class='fa fa-external-link' aria-hidden='true'></i>, relativement facile grâce à l'éditeur de texte",
     "style": "gray-column"
   }, {
     "id": "3",
-    "text": "Fournir un contenu toujours actualisé (évite que plusieurs versions d'un fichier ne circulent",
+    "text": "Fournir un contenu toujours actualisé (évite que plusieurs versions d'un fichier ne circulent) ou plus attractif (contenus présentés de façon plus ludique en intégrant vidéo, H5P, etc.)",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Des activités formatives peuvent être envisagées en insérant des questions interactives au milieu du texte. Selon la longueur du contenu, envisager plutôt le livre",
+    "text": "Des activités formatives peuvent être insérées : questions interactives (hébergées dans la banque de question), quizz H5P. Selon la longueur du contenu, envisager plutôt le livre ou la leçon.",
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "C'est plutôt un outil d'information descendant, ne permet pas une réelle interaction",
-    "style": "bad"
+    "text": "Oui si des activités interactives y sont ajoutés",
+    "style": "neutral"
   }, {
     "id": "6",
     "text": "Non",
