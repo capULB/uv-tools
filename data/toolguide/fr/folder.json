@@ -25,7 +25,7 @@
     "style": "bad"
   }, {
     "id": "7",
-    "text": "Se rappeler et comprendre",
-    "style": "bad"
+    "text": "- Se rappeler <br>- Comprendre",
+    "style": "gray-column"
   }
 ]
