@@ -4,10 +4,11 @@ Colors
 
 /* Table default colors */
 $header-color: #89cff0; /* Baby Blue. This should not be transparent */
+$header2-color: #ebebeb; /* Gray. This should not be transparent */
 $good-color: #d0f0c0; /* Tea green */
 $neutral-color: #fffacd; /* Lemon Chiffon */
 $bad-color: #fdbcb4; /* Cantaloupe Melon */
-$gray-column-color: #ebebeb;
+$gray-column-color: #ebebeb; /* Gray classic*/
 $link-color: #00F;
 
 :root {
@@ -17,6 +18,10 @@ $link-color: #00F;
 
 .b {
   background-color: $header-color;
+}
+
+.h {
+  background-color: $header2-color;
 }
 
 .g {
@@ -37,13 +42,18 @@ $link-color: #00F;
 
 /* Accessible colors */
 $accessible-header-color: #8ab9f1; /* Jordy Blue. This should not be transparent */
+$accessible-header2-color: #ebebeb; /* Gray. This should not be transparent */
 $accessible-good-color: #ace1af; /* Celadon */
 $accessible-neutral-color: #fedc56; /* Mustard */
 $accessible-bad-color: #ff7f7f; /* Light red */
-$accessible-gray-column-color: #ebebeb;
+$accessible-gray-column-color: #ebebeb; /* Gray classic */
 
 .accessible-colors .b {
   background-color: $accessible-header-color;
+}
+
+.accessible-colors .h {
+  background-color: $accessible-header2-color;
 }
 
 .accessible-colors .g {
@@ -59,7 +69,7 @@ $accessible-gray-column-color: #ebebeb;
 }
 
 .accessible-colors .n {
-  background-color: $accessible-header-color;
+  background-color: $accessible-gray-column-color;
 }
 
 /**
