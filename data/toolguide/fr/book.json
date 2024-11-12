@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://docs.moodle.org/4x/fr/Livre' target='_blank'><strong>Livre</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Créer un texte de plusieurs pages avec chapitres et sous-chapitres",
+    "text": "<a href='https://docs.moodle.org/4x/fr/Livre' target='_blank'><strong>Livre</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Créer un contenu organisé (chapitrage et sommaire)",
     "style": "header"
   }, {
     "id": "2",
@@ -9,23 +9,23 @@
     "style": "good"
   }, {
     "id": "3",
-    "text": "Oui. Idéal pour communiquer des infos sous forme structurée.",
+    "text": "Fournir un contenu toujours actualisé (évite que plusieurs versions d'un fichier ne circulent) ou plus attractif (contenus présentés de façon plus ludique en intégrant vidéo, H5P, etc.)",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Peut-être. Selon le contenu inséré. Exemple : contenu à lire suivi d'un test (quiz).",
+    "text": "Des activités formatives peuvent être insérées : questions interactives (hébergées dans la banque de question), quizz H5P. Selon la longueur du contenu, envisager plutôt le livre ou la leçon.",
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Peut-être. Selon le contenu inséré. Exemple : contenu à lire suivi d'un test (quiz).",
+    "text": "Oui si des activités interactives y sont ajoutées",
     "style": "neutral"
   }, {
     "id": "6",
-    "text": "Peut-être. Selon le contenu inséré. Exemple : texte sur lequel avoir une réflexion commune.",
+    "text": "Non",
     "style": "neutral"
   }, {
     "id": "7",
-    "text": "4 / 6<br />Se rappeler, comprendre, appliquer, analyser.",
+    "text": "- Se rappeler<br />- Comprendre<br />- Appliquer<br />- Analyser",
     "style": "neutral"
   }
 ]
