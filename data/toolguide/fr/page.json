@@ -1,12 +1,12 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://docs.moodle.org/4x/fr/Page' target='_blank'><strong>Page</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Proposer un contenu en quantité importante ou plus dynamique",
+    "text": "<a href='https://docs.moodle.org/4x/fr/Page' target='_blank'><strong>Page</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Proposer sur une page web unique un contenu en quantité importante ou plus dynamique",
     "style": "header"
   }, {
     "id": "2",
-    "text": "s'apprente à de l'<a href='https://www.wearethewords.com/rediger-pour-le-web-grands-principes-et-bonnes-pratiques/' target='_blank'>édition web</a> <i class='fa fa-external-link' aria-hidden='true'></i>, relativement facile grâce à l'éditeur de texte",
-    "style": "gray-column"
+    "text": "",
+    "style": "gray-column"s'apprente à de l'<a href='https://www.wearethewords.com/rediger-pour-le-web-grands-principes-et-bonnes-pratiques/' target='_blank'>édition web</a> <i class='fa fa-external-link' aria-hidden='true'></i>, relativement facile grâce à l'éditeur de texte
   }, {
     "id": "3",
     "text": "Fournir un contenu toujours actualisé (évite que plusieurs versions d'un fichier ne circulent) ou plus attractif (contenus présentés de façon plus ludique en intégrant vidéo, H5P, etc.)",
