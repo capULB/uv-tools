@@ -5,7 +5,7 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile, comme plusieurs pages structurées d'un traitement de texte.",
+    "text": "s'apprente à de l'<a href='https://www.wearethewords.com/rediger-pour-le-web-grands-principes-et-bonnes-pratiques/' target='_blank'>édition web</a> <i class='fa fa-external-link' aria-hidden='true'></i>, relativement facile grâce à l'éditeur de texte",
     "style": "gray-column"
   }, {
     "id": "3",
@@ -14,15 +14,15 @@
   }, {
     "id": "4",
     "text": "Des activités formatives peuvent être insérées : questions interactives (hébergées dans la banque de question), quizz H5P. Selon la longueur du contenu, envisager plutôt le livre ou la leçon.",
-    "style": "neutral"
+    "style": "good"
   }, {
     "id": "5",
     "text": "Oui si des activités interactives y sont ajoutées",
-    "style": "neutral"
+    "style": "good"
   }, {
     "id": "6",
     "text": "Non",
-    "style": "neutral"
+    "style": "bad"
   }, {
     "id": "7",
     "text": "- Se rappeler<br />- Comprendre<br />- Appliquer<br />- Analyser",
