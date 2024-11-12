@@ -6,7 +6,7 @@
   }, {
     "id": "2",
     "text": "Facile. Le canal Annonces est présent par défaut et préréglé à cet usage ; les forums comme activité d'apprentissage sont réglables facilement",
-    "style": "good"
+    "style": "gray-column"
   }, {
     "id": "3",
     "text": "C'est la vocation du canal Annonces (flux descendant enseignant·e > étudiant·es) ; créer un nouveau forum permet aux étudiant·es de déposer du contenu à partager",
@@ -25,7 +25,7 @@
     "style": "good"
   }, {
     "id": "7",
-    "text": "5 / 6<br />Comprendre, appliquer, analyser, évaluer, créer.",
-    "style": "good"
+    "text": "- Comprendre<br />- Analyser<br />- Créer",
+    "style": "gray-column"
   }
 ]
