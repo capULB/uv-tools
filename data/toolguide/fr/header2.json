@@ -5,8 +5,8 @@
     "style": "header tool"
   }, {
     "id": "2",
-    "text": "Niveaux de difficulté",
-    "style": "header"
+    "text": "Facilité de mise en œuvre",
+    "style": "header tool"
   }, {
     "id": "3",
     "text": "Un outil pour fournir des informations aux étudiant·es ?",
