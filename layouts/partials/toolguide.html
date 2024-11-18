@@ -146,21 +146,13 @@
     <tr class="title-row">
       <td colspan="7">{{ i18n "ACTIVITIES" }} – {{ i18n "Manage" }}</td>
     </tr>
-    <tr>
-      {{ range .checklist }}
-      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
-      {{ end }}
-    </tr>
+    
     <tr>
       {{ range .choicegroup }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
       {{ end }}
     </tr>
-    <tr>
-      {{ range .attendance }}
-      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
-      {{ end }}
-    </tr>                     
+                         
     <tr>
       {{ range .scheduler }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
@@ -170,7 +162,17 @@
       {{ range .reservation }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
       {{ end }}
-    </tr>          
+    </tr>  
+    <tr>
+      {{ range .checklist }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr>
+      {{ range .attendance }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
   </tbody>
 </table>
 </div>
