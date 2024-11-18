@@ -9,15 +9,15 @@
     "style": "header tool"
   }, {
     "id": "3",
-    "text": "Un outil pour fournir des informations aux étudiant·es ?",
+    "text": "Un outil permettant l'échange d'informations ?",
     "style": "header"
   }, {
     "id": "4",
-    "text": "Un outil vous permettant d'évaluer les apprentissages des étudiant·es ?",
+    "text": "Un outil permettant d'évaluer les apprentissages ?",
     "style": "header"
   }, {
     "id": "5",
-    "text": "Un outil pour la communication et l'interaction entre participant·es ?",
+    "text": "Un outil favorisant l'interaction entre participant·es ?",
     "style": "header"
   }, {
     "id": "6",
