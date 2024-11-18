@@ -1,31 +1,31 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://uv.ulb.ac.be/mod/book/view.php?id=560903' target='_blank'><strong>Devoir</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Proposer une tâche à réaliser, récolter les résultats et les évaluer",
+    "text": "<a href='https://uv.ulb.ac.be/mod/book/view.php?id=560903' target='_blank'><strong>Devoir</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Proposer une tâche à réaliser, récolter les résultats (fichiers) et les évaluer",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile. Choisir l'un des deux types. Des devoirs en ligne et hors ligne sont possibles.",
-    "style": "good"
+    "text": "Facile pour ses fonctions classique ; intermédiaire pour l'évaluation",
+    "style": "gray-column-color"
   }, {
     "id": "3",
-    "text": "Non. Peut cependant inclure des infos sur le contexte du devoir.",
-    "style": "bad"
+    "text": "Permet un feedback sur les productions",
+    "style": "neutral"
   }, {
     "id": "4",
-    "text": "Oui. Fixer la date de remise et la note maximale. Collecter les devoirs et les évaluer.",
+    "text": "Oui : date de remise, analyse plagiat, différents types de consignes et de noations possibles",
     "style": "good"
   }, {
     "id": "5",
-    "text": "Non. N'offre qu'une interaction limitée entre les participants et le formateur.",
+    "text": "Non",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Oui. Permet d'effectuer des devoirs de groupe.",
+    "text": "Oui. Permet d'effectuer des devoirs de groupe",
     "style": "good"
   }, {
     "id": "7",
-    "text": "6 / 6<br />Indirectement. Dépend de la conception de la tâche donnée.",
-    "style": "good"
+    "text": "<ul><li>Appliquer</li><li>Analyser</li><li>Évaluer</li><li>Créer</li></ul>",
+    "style": "gray-column-color"
   }
 ]
