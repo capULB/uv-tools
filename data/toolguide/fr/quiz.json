@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://uv.ulb.ac.be/course/view.php?id=89419' target='_blank'><strong>Test</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Évaluer au moyen de questions et afficher les réponses correctes avec feedbacks. Évaluation automatique",
+    "text": "<a href='https://uv.ulb.ac.be/course/view.php?id=89419' target='_blank'><strong>Test</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Évaluer au moyen de questions, majoritairement fermées à correction automatique",
     "style": "header"
   }, {
     "id": "2",
@@ -9,19 +9,19 @@
     "style": "gray-column-color"
   }, {
     "id": "3",
-    "text": "Non",
-    "style": "bad"
+    "text": "Feedback possible : immédiat ou a posteriori",
+    "style": "neutral"
   }, {
     "id": "4",
-    "text": "majoritairement questions fermées à correction automatique, évaluation formative ou certificative avec de nombreuses options : une ou plusieurs tentatives, question déterminée ou aléatoire, feedback immédiat ou a posteriori, relecture possible, etc.",
+    "text": "Evaluation formative ou certificative avec de nombreuses options : une ou plusieurs tentatives, question déterminée ou aléatoire, indices ou taux de certitude, relecture possible, etc.",
     "style": "good"
   }, {
     "id": "5",
-    "text": "Non, exclusivement individuel",
+    "text": "Exclusivement individuel",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Non. voir la rubrique 'Mettre en commun des données'",
+    "text": "Voir plutôt la rubrique 'Mettre en commun des données'",
     "style": "bad"
   }, {
     "id": "7",
