@@ -184,7 +184,7 @@ table.display th.header {
 
 table.display th.header.tool {
   vertical-align: bottom;
-  font-weight: bold;
+  font-weight: italic;
 }
 
 table.display td.good, .good {
