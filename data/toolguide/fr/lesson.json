@@ -1,31 +1,31 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://docs.moodle.org/4x/fr/Le%C3%A7on' target='_blank'><strong>Leçon</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Transmettre des infos de façon flexible, avec des questions de validation",
+    "text": "<a href='https://docs.moodle.org/4x/fr/Le%C3%A7on' target='_blank'><strong>Leçon</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Créer un parcours d'apprentissage personnalisé (branchement conditionnel sur base de questions)",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Assez délicat. Analyse préalable et planification nécessaires. En vaut la peine.",
-    "style": "neutral"
+    "text": "Avancé. Demande une réfléxion préalable sur un scénario d'apprentissage et une appropriation de l'activité fonctionnant en arborescence",
+    "style": "gray-column-color"
   }, {
     "id": "3",
-    "text": "Excellent pour présenter des infos sous la forme de parcours guidé.",
+    "text": "Présenter le contenu sous la forme de parcours guidé, aller au rythme de l'étudiant·e",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Oui. À utiliser sous forme de parcours, scénario, étude de cas, jeu de rôle.",
-    "style": "good"
+    "text": "Il s'agit plutôt d'une activité formative, même si des questions peuvent être insérées pour vérifier la compréhension",
+    "style": "neutral"
   }, {
     "id": "5",
-    "text": "Non. Il s'agit d'une activité individuelle.",
+    "text": "Pas de mode groupe prévu",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Non. Il s'agit d'une activité individuelle.",
+    "text": "Voir plutôt la rubrique 'Mettre en commun des données'",
     "style": "bad"
   }, {
     "id": "7",
     "text": "6 / 6<br />Permet de tester les six niveaux, en faisant preuve de créativité.",
-    "style": "neutral"
+    "style": "gray-column-color"
   }
 ]
