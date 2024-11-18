@@ -1,11 +1,11 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://uv.ulb.ac.be/course/view.php?id=89419' target='_blank'><strong>Test</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Évaluer au moyen de questions, majoritairement fermées à correction automatique",
+    "text": "<a href='https://uv.ulb.ac.be/course/view.php?id=89419' target='_blank'><strong>Test</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Proposer des questions variées (18 types), majoritairement fermées à correction automatique",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Intermédiaire : interaction de plusieurs composants (paramètres du test et des questions, banque de questions, etc.) ",
+    "text": "Intermédiaire : interaction de plusieurs composants (paramètres du test, configuration des questions, banque de questions, etc.) ",
     "style": "gray-column-color"
   }, {
     "id": "3",
