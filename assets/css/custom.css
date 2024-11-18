@@ -183,6 +183,7 @@ table.display th.header {
 }
 
 table.display th.header.tool2 {
+  font-weight: bold;
   font-style: italic;
 }
 table.display th.header.tool {
