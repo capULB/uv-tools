@@ -5,27 +5,27 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "Avancé : demande une appropriation de l'activité fonctionnant par phases (attribution des travaux à évaluer, organisation de l'évaluation, etc.",
+    "text": "Avancé : demande une appropriation de l'activité fonctionnant par phases (attribution des travaux à évaluer, organisation de l'évaluation, etc.)",
     "style": "gray-column-color"
   }, {
     "id": "3",
     "text": "Permet un feedback constructif sur les productions, permet un partage de certains travaux",
-    "style": "neutral"
+    "style": "good"
   }, {
     "id": "4",
-    "text": "Il s'agit plutôt d'une méthode d'apprentissage interactive sur comment évaluer, exercer l'esprit refléchif et critique, etc.",
+    "text": "Il s'agit plutôt d'une méthode d'apprentissage interactive sur comment évaluer, exercer l'esprit refléxif et critique, etc.",
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Pas de mode groupe prévu ; peut servir de référence/base pour une activité d'échange",
+    "text": "Pas de mode groupe prévu, difficile à organiser sans ; peut servir de référence/base pour une activité d'échange",
     "style": "neutral"
   }, {
     "id": "6",
     "text": "Voir plutôt la rubrique 'Mettre en commun des données'",
-    "style": "neutral"
+    "style": "bad"
   }, {
     "id": "7",
-    "text": "6 / 6<br />Permet de tester les six niveaux, en faisant preuve de créativité.",
+    "text": "<ul><li>Se rappeler</li><li>Comprendre</li><li>Appliquer</li><li>Analyser</li><li>Évaluer</li><li>Créer</li></ul>",
     "style": "gray-column-color"
   }
 ]
