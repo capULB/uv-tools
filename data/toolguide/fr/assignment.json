@@ -5,7 +5,7 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile pour ses fonctions classique ; intermédiaire pour l'évaluation",
+    "text": "Facile pour ses fonctions classiques ; intermédiaire pour la partie évaluation",
     "style": "gray-column-color"
   }, {
     "id": "3",
@@ -13,7 +13,7 @@
     "style": "neutral"
   }, {
     "id": "4",
-    "text": "Oui : date de remise, analyse plagiat, différents types de consignes et de noations possibles",
+    "text": "Limitation du délai de dépôt, analyse plagiat, différents types de consignes et de notations possibles",
     "style": "good"
   }, {
     "id": "5",
@@ -21,7 +21,7 @@
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Oui. Permet d'effectuer des devoirs de groupe, voir aussi la rubrique 'Mettre en commun des données'",
+    "text": "Permet d'effectuer des devoirs de groupe, voir aussi la rubrique 'Mettre en commun des données'",
     "style": "good"
   }, {
     "id": "7",
