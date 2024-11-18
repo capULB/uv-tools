@@ -91,16 +91,6 @@
       <td colspan="7">{{ i18n "ACTIVITIES" }} – {{ i18n "ShareData" }}</td>
     </tr>
     <tr>
-      {{ range .pdfannotator }}
-      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
-      {{ end }}
-    </tr>    
-    <tr>
-      {{ range .database }}
-      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
-      {{ end }}
-    </tr>
-    <tr>
       {{ range .glossary }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
       {{ end }}
@@ -109,7 +99,17 @@
       {{ range .publication }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
       {{ end }}
-    </tr>    
+    </tr> 
+    <tr>
+      {{ range .database }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr>
+      {{ range .pdfannotator }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
     <tr>
       {{ range .board }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
