@@ -13,11 +13,11 @@
     "style": "good"
   }, {
     "id": "4",
-    "text": "Il s'agit plutôt d'une méthode d'apprentissage interactive sur comment évaluer, exercer l'esprit refléxif et critique, etc.",
+    "text": "Il s'agit plutôt d'une méthode d'apprentissage interactive sur comment évaluer, exercer l'esprit critique, etc.",
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "comporte un travail réflexif sur les productions de ses pairs ; pas de mode groupe prévu, difficile à organiser sans ; peut servir de référence/base pour une activité d'échange",
+    "text": "Comporte un aspect réflexif sur les productions de ses pairs ; pas de mode groupe prévu, difficile à organiser sans ; peut servir de référence/base pour une activité d'échange",
     "style": "good"
   }, {
     "id": "6",
@@ -25,7 +25,7 @@
     "style": "bad"
   }, {
     "id": "7",
-    "text": "<ul><li>Se rappeler</li><li>Comprendre</li><li>Appliquer</li><li>Analyser</li><li>Évaluer</li><li>Créer</li></ul>",
+    "text": "<ul><li>Se rappeler</li><li>Comprendre</li><li>Appliquer</li><li>Analyser</li></ul>",
     "style": "gray-column-color"
   }
 ]
