@@ -1,31 +1,31 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://uv.ulb.ac.be/mod/page/view.php?id=671141' target='_blank'><strong>Atelier</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Collecter, évaluer et faire évaluer les travaux des étudiants par leurs pairs",
+    "text": "<a href='https://uv.ulb.ac.be/mod/page/view.php?id=671141' target='_blank'><strong>Atelier</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Proposer une tâche à réaliser, récolter les résultats (fichiers) et organiser une évaluation par les pairs",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Délicat et prend du temps. Choisir les règles d'évaluation et de remise des travaux.",
-    "style": "bad"
+    "text": "Avancé : demande une appropriation de l'activité fonctionnant par phases (attribution des travaux à évaluer, organisation de l'évaluation, etc.",
+    "style": "gray-column-color"
   }, {
     "id": "3",
-    "text": "Non. Mieux vaut utiliser un autre outil pour ça.",
-    "style": "bad"
+    "text": "Permet un feedback constructif sur les productions, permet un partage de certains travaux",
+    "style": "neutral"
   }, {
     "id": "4",
-    "text": "Oui. Permet une évaluation entre pairs, consolidés par le formateur.",
-    "style": "good"
+    "text": "Il s'agit plutôt d'une méthode d'apprentissage interactive sur comment évaluer, exercer l'esprit refléchif et critique, etc.",
+    "style": "neutral"
   }, {
     "id": "5",
-    "text": "Non. N'offre qu'une interaction limitée entre les participants et le formateur.",
-    "style": "bad"
+    "text": "Pas de mode groupe prévu ; peut servir de référence/base pour une activité d'échange",
+    "style": "neutral"
   }, {
     "id": "6",
-    "text": "Oui. À utiliser pour des travaux de groupes, dans l'objectif d'un résultat à évaluer.",
-    "style": "good"
+    "text": "Voir plutôt la rubrique 'Mettre en commun des données'",
+    "style": "neutral"
   }, {
     "id": "7",
     "text": "6 / 6<br />Permet de tester les six niveaux, en faisant preuve de créativité.",
-    "style": "neutral"
+    "style": "gray-column-color"
   }
 ]
