@@ -5,27 +5,27 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "Délicat et prend du temps. Configurer le test d'abord, puis ajouter les questions. Utiliser la banque de questions.",
-    "style": "bad"
+    "text": "Intermédiaire : interaction de plusieurs composants (paramètres du test et des questions, banque de questions, etc.) ",
+    "style": "gray-column-color"
   }, {
     "id": "3",
-    "text": "Non. N'est pas adéquat pour fournir des infos.",
+    "text": "Non",
     "style": "bad"
   }, {
     "id": "4",
-    "text": "Nombreux types de questions variées. Peut être limité dans le temps et sécurisé. À utiliser aussi pour l'auto-évaluation.",
+    "text": "majoritairement questions fermées à correction automatique, évaluation formative ou certificative avec de nombreuses options : une ou plusieurs tentatives, question déterminée ou aléatoire, feedback immédiat ou a posteriori, relecture possible, etc.",
     "style": "good"
   }, {
     "id": "5",
-    "text": "Non. Utiliser plutôt des forums.",
+    "text": "Non, exclusivement individuel",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Non. Utiliser plutôt des forums ou des wikis.",
+    "text": "Non. voir la rubrique 'Mettre en commun des données'",
     "style": "bad"
   }, {
     "id": "7",
-    "text": "6 / 6<br />Permet de tester les six niveaux, en faisant preuve de créativité.",
-    "style": "neutral"
+    "text": "<ul><li>Se rappeler</li><li>Comprendre</li><li>Appliquer</li><li>Analyser</li><li>Évaluer</li><li>Créer</li></ul>",
+    "style": "gray-column-color"
   }
 ]
