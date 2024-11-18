@@ -182,6 +182,9 @@ table.display th.header {
   font-weight: normal;
 }
 
+table.display th.header.tool2 {
+  font-style: italic;
+}
 table.display th.header.tool {
   vertical-align: bottom;
   font-style: italic;
