@@ -5,11 +5,11 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile. Le canal Annonces est présent par défaut et préréglé à cet usage ; les forums comme activité d'apprentissage sont réglables facilement",
+    "text": "Facile : le canal Annonces est présent par défaut et préréglé à cet usage ; le forum comme activité d'apprentissage comporte plus d'options à choisir selon son objectif",
     "style": "gray-column"
   }, {
     "id": "3",
-    "text": "C'est la vocation du canal Annonces (flux descendant enseignant·e > étudiant·es) ; créer un nouveau forum permet aux étudiant·es de déposer du contenu à partager",
+    "text": "Le canal Annonces est dédié à un échange enseignant·e > étudiant·es ; créer un nouveau forum permet aux étudiant·es de déposer du contenu à partager",
     "style": "good"
   }, {
     "id": "4",
@@ -17,11 +17,11 @@
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Favorise le débat, les jeux de rôles, l'analyse critique, l'argumentation, etc. ; demande un travail d'<a href='https://uv.ulb.ac.be/pluginfile.php/3312500/mod_resource/content/4/Comment%20encourager%20et%20faciliter%20les%20discussions%20en%20ligne%20avec%20les%20forums%20Moodle.pdf' target='_blank'>animation</a> <i class='fa fa-external-link' aria-hidden='true'></i>",
+    "text": "Favorise le débat, les jeux de rôles, l'argumentation, etc. ; demande un travail d'<a href='https://uv.ulb.ac.be/pluginfile.php/3312500/mod_resource/content/4/Comment%20encourager%20et%20faciliter%20les%20discussions%20en%20ligne%20avec%20les%20forums%20Moodle.pdf' target='_blank'>animation</a> <i class='fa fa-external-link' aria-hidden='true'></i>",
     "style": "good"
   }, {
     "id": "6",
-    "text": "Echanger, explorer des thématiques, réfléchir ensemble ; demande un travail d'<a href='https://uv.ulb.ac.be/pluginfile.php/3312500/mod_resource/content/4/Comment%20encourager%20et%20faciliter%20les%20discussions%20en%20ligne%20avec%20les%20forums%20Moodle.pdf' target='_blank'>animation</a> <i class='fa fa-external-link' aria-hidden='true'></i>",
+    "text": "Explorer des thématiques et réfléchir ensemble ; demande un travail d'<a href='https://uv.ulb.ac.be/pluginfile.php/3312500/mod_resource/content/4/Comment%20encourager%20et%20faciliter%20les%20discussions%20en%20ligne%20avec%20les%20forums%20Moodle.pdf' target='_blank'>animation</a> <i class='fa fa-external-link' aria-hidden='true'></i>",
     "style": "good"
   }, {
     "id": "7",
