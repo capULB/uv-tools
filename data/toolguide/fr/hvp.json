@@ -5,24 +5,24 @@
     "style": "neutrral"
   }, {
     "id": "2",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Intermédiaire. Propose une quarantaine de modules interactifs préconfigurés, de deux types : présentation ludique de contenu ou système de quizz simples. Peut être intégré directement dans une page.",
+    "style": "bad"
   }, {
     "id": "3",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Permet l'interaction avec l'apprenant·e par le biais de vidéos enrichies, de présentations interactives,...",
+    "style": "good"
   }, {
     "id": "4",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Oui, indirectement. Peut soutenir l'évaluation formative par le biais de QCM, quiz, flashcards,… Utiliser plutôt le test en cas d'évaluation certificative.",
+    "style": "neutral"
   }, {
     "id": "5",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "6",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "7",
     "text": "x/x<br />En cours",
