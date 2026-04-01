@@ -5,27 +5,27 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Facile à moyenne : nécessite le partage d'un document PDF et la configuration des droits d'annotation pour les étudiant·es. Peut prendre du temps si les étudiant·es annotent beaucoup et sont nombreux à poser à des questions.",
+    "style": "neutral"
   }, {
     "id": "3",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Oui. les annotations peuvent servir à poser des questions, communiquer des remarques ou clarifier des points, entre enseignant·es et/ou étudiant·es.",
+    "style": "good"
   }, {
     "id": "4",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Oui. il est possible d'évaluer et de mettre en évidence chaque annotation utile par l'intermédiaire d'un système de vote.",
+    "style": "good"
   }, {
     "id": "5",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Oui, en particulier si l'outil est paramétré pour rendre visibles les annotations de l'ensemble des participant·es.. Favorise la compréhension commune et permet des discussions croisées sur base de contenu identifié dans le PDF. ",
+    "style": "good"
   }, {
     "id": "6",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "7",
-    "text": "x/x<br />En cours",
+    "text": "<ul><li>Comprendre</li><li>Analyser</li><li>Évaluer</li><li>Créer</li></ul>",
     "style": "neutrral"
   }
 ]
