@@ -5,27 +5,27 @@
     "style": "neutrral"
   }, {
     "id": "2",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Intermédiaire. Attention à porter sur l'organisation de créneaux à choisir par groupe.",
+    "style": "neutral"
   }, {
     "id": "3",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "4",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Oui. Permet l'organisation d'examens oraux avec un système d'annotations et d'attribution de notes.",
+    "style": "good"
   }, {
     "id": "5",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "6",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "7",
-    "text": "x/x<br />En cours",
+    "text": "NA (Outil organisationnel)",
     "style": "neutrral"
   }
 ]
