@@ -5,27 +5,27 @@
     "style": "neutrral"
   }, {
     "id": "2",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Facile. Une réservation = une date = un événement.",
+    "style": "good"
   }, {
     "id": "3",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "4",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "5",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "6",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "7",
-    "text": "x/x<br />En cours",
+    "text": "NA (Outil organisationnel)",
     "style": "neutrral"
   }
 ]
