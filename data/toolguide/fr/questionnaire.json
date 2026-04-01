@@ -5,27 +5,27 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Facile pour un usage de base. Intermédiaire pour l'usage des branchements conditionnels.",
+    "style": "neutral"
   }, {
     "id": "3",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Oui. En flux ascendant, le questionnaire Moodle est destiné au recueil de l'avis des étudiant·es à destination de l'enseignant·e.",
+    "style": "good"
   }, {
     "id": "4",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Non. Seule une note générale peut-être attribuée pour le remplissage. Utiliser plutôt le test en cas d'évaluation certificative.",
+    "style": "bad"
   }, {
     "id": "5",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "6",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "7",
-    "text": "x/x<br />En cours",
+    "text": "Non applicable",
     "style": "neutrral"
   }
 ]
