@@ -5,27 +5,27 @@
     "style": "neutrral"
   }, {
     "id": "2",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Facile.",
+    "style": "good"
   }, {
     "id": "3",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Oui. Un tableau permet de laisser les participant·es organiser des informations parmi plusieurs colonnes thématiques.",
+    "style": "good"
   }, {
     "id": "4",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Oui. il est possible d'évaluer et de mettre en évidence chaque contribution utile par l'intermédiaire d'un système de vote.",
+    "style": "good"
   }, {
     "id": "5",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Non. Dans la mesure où les contributions des participant·es sont anonymes, les possibilités de discussion ou d'interaction directes sont limitées.",
+    "style": "bad"
   }, {
     "id": "6",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Oui. Chaque participant·e a la possibilité d'ajouter des notes (texte, URL, image, vidéo,…) au regard de chaque colonne thématique.",
+    "style": "good"
   }, {
     "id": "7",
-    "text": "x/x<br />En cours",
+    "text": "<ul><li>Comprendre</li><li>Analyser</li><li>Evaluer</li></ul>",
     "style": "neutrral"
   }
 ]
