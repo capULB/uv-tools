@@ -5,27 +5,27 @@
     "style": "neutrral"
   }, {
     "id": "2",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Facile. Simple à paramétrer et à utiliser par les étudiant·es.",
+    "style": "good"
   }, {
     "id": "3",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Oui. Permet de transmettre des documents, supports de cours ou ressources complémentaires par et pour les étudiant·es. Sous certaines conditions, le partage des meilleurs devoirs rendus est possible.",
+    "style": "good"
   }, {
     "id": "4",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Non, mais peut être combiné avec d’autres activités (quiz, devoirs) pour pouvoir évaluer.",
+    "style": "bad"
   }, {
     "id": "5",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "6",
-    "text": "En cours",
-    "style": "neutrral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "7",
-    "text": "x/x<br />En cours",
+    "text": "Principalement :<ul><li>Se rappeler</li><li>Comprendre</li></ul>Selon les fichiers partagés, en faisant preuve de créativité et en fonction de l'objectif du partage :<ul><li>Appliquer</li><li>Analyser</li><li>Créer</li></ul>",
     "style": "neutrral"
   }
 ]
