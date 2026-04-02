@@ -6,7 +6,7 @@
   }, {
     "id": "2",
     "text": "Facile mais prend du temps. Configurer l'activité, puis ajouter les questions.",
-    "style": "neutral"
+    "style": "gray-column"
   }, {
     "id": "3",
     "text": "Non. Le feedback n'est pas un canal d'information.",
