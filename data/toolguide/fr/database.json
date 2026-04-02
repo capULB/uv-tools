@@ -6,7 +6,7 @@
   }, {
     "id": "2",
     "text": "Délicat. Nécessite une conception préalable des modèles de fiches.",
-    "style": "bad"
+    "style": "gray-column"
   }, {
     "id": "3",
     "text": "Peut être utilisée pour présenter de l'info. Mieux utilisée si les participants contribuent.",
