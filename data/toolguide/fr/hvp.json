@@ -5,7 +5,7 @@
     "style": "neutrral"
   }, {
     "id": "2",
-    "text": "Intermédiaire. Propose une quarantaine de modules interactifs préconfigurés, de deux types : présentation ludique de contenu ou système de quizz simples. Peut être intégré directement dans une page.",
+    "text": "Intermédiaire. Propose une quarantaine de modules interactifs préconfigurés, de deux types : présentation ludique de contenu ou système de quiz simples. Peut être intégré directement dans une page.",
     "style": "gray-column"
   }, {
     "id": "3",
@@ -17,11 +17,11 @@
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Non",
+    "text": "Non.",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Non",
+    "text": "Non.",
     "style": "bad"
   }, {
     "id": "7",
