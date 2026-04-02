@@ -5,23 +5,23 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile",
-    "style": "gray-column"
+    "text": "Facile.",
+    "style": "good"
   }, {
     "id": "3",
-    "text": "Guider les participant·es vers des outils complémentaires ou de l'information trop importante pour être intégrée au cours",
+    "text": "Guider les participant·es vers des outils complémentaires ou de l'information trop importante pour être intégrée au cours.",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Non",
+    "text": "Non.",
     "style": "bad"
   }, {
     "id": "5",
-    "text": "Peut servir de référence/base pour un exercice",
+    "text": "Peut servir de référence/base pour un exercice.",
     "style": "neutral"
   }, {
     "id": "6",
-    "text": "Non",
+    "text": "Non.",
     "style": "bad"
   }, {
     "id": "7",
