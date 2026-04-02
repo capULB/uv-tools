@@ -5,11 +5,11 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "Intermédiaire : interaction de plusieurs composants (paramètres du test, configuration des questions, banque de questions, etc.) ",
-    "style": "gray-column-color"
+    "text": "Intermédiaire : interaction de plusieurs composants (paramètres du test, configuration des questions, banque de questions, etc.) .",
+    "style": "neutral"
   }, {
     "id": "3",
-    "text": "Feedback possible : immédiat ou a posteriori",
+    "text": "Feedback possible : immédiat ou à posteriori.",
     "style": "neutral"
   }, {
     "id": "4",
@@ -17,11 +17,11 @@
     "style": "good"
   }, {
     "id": "5",
-    "text": "Pas de mode groupe prévu",
+    "text": "Pas de mode groupe prévu.",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Voir plutôt la rubrique 'Mettre en commun des données'",
+    "text": "Voir plutôt la rubrique 'Mettre en commun des données'.",
     "style": "bad"
   }, {
     "id": "7",
