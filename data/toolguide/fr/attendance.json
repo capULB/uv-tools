@@ -6,7 +6,7 @@
   }, {
     "id": "2",
     "text": "Intermédiaire. Attention à porter sur la synchronisation avec les groupes.",
-    "style": "neutral"
+    "style": "gray-column"
   }, {
     "id": "3",
     "text": "Non",
