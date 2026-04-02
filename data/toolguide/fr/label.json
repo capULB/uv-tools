@@ -5,23 +5,23 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile pour le texte et les images ; intermédiaire pour l'intégration de H5P ou de vidéo",
-    "style": "gray-column"
+    "text": "Facile pour le texte et les images ; intermédiaire pour l'intégration de H5P ou de vidéo.",
+    "style": "neutral"
   }, {
     "id": "3",
-    "text": "Flux descendant : seul·es les éditeur·rices peuvent ajouter du contenu",
+    "text": "Flux descendant : seul·es les éditeur·rices peuvent ajouter du contenu.",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Non",
+    "text": "Non.",
     "style": "bad"
   }, {
     "id": "5",
-    "text": "Non",
+    "text": "Non.",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Non",
+    "text": "Non.",
     "style": "bad"
   }, {
     "id": "7",
