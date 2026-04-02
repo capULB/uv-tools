@@ -9,8 +9,8 @@
     "style": "neutral"
   }, {
     "id": "3",
-    "text": "Non",
-    "style": "bad"
+    "text": "Oui. L'étudiant·e peut écrire un message et/ou déposer un fichier au moment de la prise de rendez-vous.",
+    "style": "good"
   }, {
     "id": "4",
     "text": "Oui. Permet l'organisation d'examens oraux avec un système d'annotations et d'attribution de notes.",
