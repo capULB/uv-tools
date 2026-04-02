@@ -6,7 +6,7 @@
   }, {
     "id": "2",
     "text": "Intermédiaire. Propose une quarantaine de modules interactifs préconfigurés, de deux types : présentation ludique de contenu ou système de quizz simples. Peut être intégré directement dans une page.",
-    "style": "bad"
+    "style": "gray-column"
   }, {
     "id": "3",
     "text": "Permet l'interaction avec l'apprenant·e par le biais de vidéos enrichies, de présentations interactives,...",
