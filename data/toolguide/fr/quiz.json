@@ -6,7 +6,7 @@
   }, {
     "id": "2",
     "text": "Intermédiaire : interaction de plusieurs composants (paramètres du test, configuration des questions, banque de questions, etc.) .",
-    "style": "neutral"
+    "style": "gray-column"
   }, {
     "id": "3",
     "text": "Feedback possible : immédiat ou à posteriori.",
