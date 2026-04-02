@@ -6,7 +6,7 @@
   }, {
     "id": "2",
     "text": "Facile à moyenne : nécessite le partage d'un document PDF et la configuration des droits d'annotation pour les étudiant·es. Peut prendre du temps si les étudiant·es annotent beaucoup et sont nombreux à poser à des questions.",
-    "style": "neutral"
+    "style": "gray-column"
   }, {
     "id": "3",
     "text": "Oui. les annotations peuvent servir à poser des questions, communiquer des remarques ou clarifier des points, entre enseignant·es et/ou étudiant·es.",
