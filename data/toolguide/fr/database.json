@@ -25,7 +25,7 @@
     "style": "good"
   }, {
     "id": "7",
-    "text": "6 / 6<br />Permet de tester les six niveaux, en structurant le savoir.",
-    "style": "good"
+    "text": "Permet de tester les six niveaux, en structurant le savoir :<ul><li>Se rappeler</li><li>Comprendre</li><li>Appliquer</li><li>Analyser</li><li>Évaluer</li><li>Créer</li></ul>",
+    "style": "gray-column"
   }
 ]
