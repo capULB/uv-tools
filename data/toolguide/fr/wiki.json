@@ -25,7 +25,7 @@
     "style": "good"
   }, {
     "id": "7",
-    "text": "5 / 6<br />Comprendre, appliquer, analyser, évaluer, créer.",
-    "style": "good"
+    "text": "<ul><li>Comprendre</li><li>Appliquer</li><li>Analyser</li><li>Évaluer</li><li>Créer</li></ul>",
+    "style": "gray-column"
   }
 ]
