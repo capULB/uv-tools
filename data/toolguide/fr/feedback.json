@@ -17,7 +17,7 @@
     "style": "good"
   }, {
     "id": "5",
-    "text": "Non. N'offre qu'une communication à sens unique entre les participants et l'enseignant.",
+    "text": "Non. N'offre qu'une communication à sens unique entre les participant·es et l'enseignant·e.",
     "style": "bad"
   }, {
     "id": "6",
@@ -25,7 +25,7 @@
     "style": "bad"
   }, {
     "id": "7",
-    "text": "6 / 6<br />Permet de tester les six niveaux, en faisant preuve de créativité.",
-    "style": "neutral"
+    "text": "Permet de tester les six niveaux, en faisant preuve de créativité.",
+    "style": "gray-column"
   }
 ]
