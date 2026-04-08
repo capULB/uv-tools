@@ -185,11 +185,11 @@ table.display th.header {
 table.display th.header.tool2 {
   font-weight: bold;
   font-style: italic;
-  background-color: $accessible-header-color;
 }
 table.display th.header.tool {
   vertical-align: bottom;
   font-style: italic;
+  background-color: $gray-column-color;
 }
 
 table.display td.good, .good {
