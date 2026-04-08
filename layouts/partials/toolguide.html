@@ -152,7 +152,11 @@
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
       {{ end }}
     </tr>
-                         
+     <tr>
+      {{ range .dynamo }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>                    
     <tr>
       {{ range .scheduler }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
