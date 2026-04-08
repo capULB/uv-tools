@@ -5,11 +5,13 @@ Colors
 /* Table default colors */
 $header-color: #89cff0; /* Baby Blue. This should not be transparent */
 $header2-color: #ebebeb; /* Gray. This should not be transparent */
+$header0-color: #FFF; /* White. This should not be transparent */
 $good-color: #d0f0c0; /* Tea green */
 $neutral-color: #fffacd; /* Lemon Chiffon */
 $bad-color: #fdbcb4; /* Cantaloupe Melon */
 $gray-column-color: #ebebeb; /* Gray classic*/
 $link-color: #00F;
+
 
 :root {
   --accent: {{ site.Params.accent | default "#ffa91e" }};
@@ -180,6 +182,10 @@ table.display tr.title-row td {
 
 table.display th.header {
   font-weight: normal;
+}
+
+table.display th.header0 {
+  background-color: $header0-color;
 }
 
 table.display th.header.tool2 {
