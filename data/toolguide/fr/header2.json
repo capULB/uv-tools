@@ -1,11 +1,11 @@
 [
   {
     "id": "1",
-    "text": "Type d'outils Moodle<span class=\"flush-right\">↓</span><br>",
+    "text": "Type d'outils Moodle<span class=\"flush-right\">↓</span><br><br>",
     "style": "header tool"
   }, {
     "id": "2",
-    "text": "Facilité de mise en œuvre<span class=\"flush-right\">↓</span><br>",
+    "text": "Facilité de mise en œuvre<span class=\"flush-right\">↓</span><br><br>",
     "style": "header tool"
   }, {
     "id": "3",
