@@ -17,11 +17,11 @@
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Pas de mode groupe prévu",
+    "text": "Non",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Voir plutôt la rubrique 'Mettre en commun des données'",
+    "text": "Un remplissage en groupe pourrait être imaginé mais techniquement pas de mode 'groupe'",
     "style": "bad"
   }, {
     "id": "7",
