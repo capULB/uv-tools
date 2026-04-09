@@ -5,7 +5,7 @@
     "style": "neutrral"
   }, {
     "id": "2",
-    "text": "Intermédiaire. Propose une quarantaine de modules interactifs préconfigurés, de deux types : présentation ludique de contenu ou système de quiz simples. Peut être intégré directement dans une page.",
+    "text": "Intermédiaire. Propose une quarantaine de modules interactifs préconfigurés, de deux types : présentation ludique de contenu ou système de quiz simples. Peut être intégré directement dans une page",
     "style": "gray-column"
   }, {
     "id": "3",
@@ -13,15 +13,15 @@
     "style": "good"
   }, {
     "id": "4",
-    "text": "Oui, indirectement. Peut soutenir l'évaluation formative par le biais de QCM, quiz, flashcards,… Utiliser plutôt le test en cas d'évaluation certificative.",
+    "text": "Oui, indirectement. Peut soutenir l'évaluation formative par le biais de QCM, quiz, flashcards,… Utiliser plutôt le test en cas d'évaluation certificative",
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Non.",
+    "text": "Non",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Non.",
+    "text": "Non",
     "style": "bad"
   }, {
     "id": "7",
