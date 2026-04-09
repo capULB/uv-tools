@@ -13,8 +13,8 @@
     "style": "good"
   }, {
     "id": "4",
-    "text": "Peut servir de référence/base pour un exercice",
-    "style": "neutral"
+    "text": "non mais peut servir de référence/base pour un exercice",
+    "style": "bad"
   }, {
     "id": "5",
     "text": "Non",
