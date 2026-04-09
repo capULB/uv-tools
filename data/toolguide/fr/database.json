@@ -5,23 +5,23 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "Délicat. Nécessite une conception préalable des modèles de fiches.",
+    "text": "Délicat. Nécessite une conception préalable des modèles de fiches",
     "style": "gray-column"
   }, {
     "id": "3",
-    "text": "Peut être utilisée pour présenter de l'info. Mieux utilisée si les participants contribuent.",
+    "text": "Peut être utilisée pour présenter de l'info. Mieux utilisée si les participant·es contribuent",
     "style": "neutral"
   }, {
     "id": "4",
-    "text": "La polyvalence de la base de données permet l'évaluation. Concevoir une activité adéquate.",
+    "text": "La polyvalence de la base de données permet l'évaluation. Concevoir une activité adéquate",
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Pas conçu pour la discussion. Les participants peuvent commenter ou évaluer les fiches.",
+    "text": "Pas conçu pour la discussion. Les participant·es peuvent commenter ou évaluer les fiches",
     "style": "neutral"
   }, {
     "id": "6",
-    "text": "Les participants peuvent partager les contenus d'une bibliothèque commune.",
+    "text": "Les participant·es peuvent partager les contenus d'une bibliothèque commune",
     "style": "good"
   }, {
     "id": "7",
