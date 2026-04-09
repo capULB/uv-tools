@@ -13,12 +13,12 @@
     "style": "good"
   }, {
     "id": "4",
-    "text": "Non",
-    "style": "bad"
-  }, {
-    "id": "5",
     "text": "Peut servir de référence/base pour un exercice",
     "style": "neutral"
+  }, {
+    "id": "5",
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "6",
     "text": "Non",
