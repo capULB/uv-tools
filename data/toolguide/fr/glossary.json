@@ -5,23 +5,23 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile. Les réglages initiaux sont adéquats. Configurer le format d'affichage pour voir le nom de l'auteur.",
+    "text": "Facile. Les réglages initiaux sont adéquats. Configurer le format d'affichage pour voir le nom de l'auteur·e",
     "style": "gray-column"
   }, {
     "id": "3",
-    "text": "Pour définir des termes ou présenter des infos. Mieux utilisé si les participants créent eux-mêmes le glossaire.",
+    "text": "Pour définir des termes ou présenter des infos. Mieux utilisé si les participants créent eux-mêmes le glossaire",
     "style": "good"
   }, {
     "id": "4",
-    "text": "La polyvalence du glossaire permet l'évaluation. Concevoir une activité adéquate.",
+    "text": "La polyvalence du glossaire permet l'évaluation. Concevoir une activité adéquate",
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Pas conçu pour la discussion. Les participants peuvent seulement commenter ou évaluer les articles.",
+    "text": "Pas conçu pour la discussion. Les participants peuvent seulement commenter ou évaluer les articles",
     "style": "neutral"
   }, {
     "id": "6",
-    "text": "Oui. La classe rassemble des ressources partagées. L'auteur peut modifier ses articles.",
+    "text": "Oui. La classe rassemble des ressources partagées. L'auteur peut modifier ses articles",
     "style": "good"
   }, {
     "id": "7",
