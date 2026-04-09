@@ -5,27 +5,27 @@
     "style": "neutrral"
   }, {
     "id": "2",
-    "text": "Facile. Une réservation = une date = un événement.",
+    "text": "Facile. Une réservation = une date = un événement",
     "style": "gray-column"
   }, {
     "id": "3",
-    "text": "Oui. L'étudiant·e peut laisser un commentaire au moment de la réservation.",
+    "text": "Oui. L'étudiant·e peut laisser un commentaire au moment de la réservation",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Non.",
+    "text": "Non",
     "style": "bad"
   }, {
     "id": "5",
-    "text": "Non.",
+    "text": "Non",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Non.",
+    "text": "Non",
     "style": "bad"
   }, {
     "id": "7",
-    "text": "NA (Outil organisationnel).",
+    "text": "NA (Outil organisationnel)",
     "style": "neutrral"
   }
 ]
