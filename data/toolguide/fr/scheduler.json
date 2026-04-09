@@ -5,27 +5,27 @@
     "style": "neutrral"
   }, {
     "id": "2",
-    "text": "Intermédiaire. Attention à porter sur l'organisation de créneaux à choisir par groupe.",
+    "text": "Intermédiaire. Attention à porter sur l'organisation de créneaux à choisir par groupe",
     "style": "gray-column"
   }, {
     "id": "3",
-    "text": "Oui. L'étudiant·e peut écrire un message et/ou déposer un fichier au moment de la prise de rendez-vous.",
+    "text": "Oui. L'étudiant·e peut écrire un message et/ou déposer un fichier au moment de la prise de rendez-vous",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Oui. Permet l'organisation d'examens oraux avec un système d'annotations et d'attribution de notes.",
+    "text": "Oui. Permet l'organisation d'examens oraux avec un système d'annotations et d'attribution de notes",
     "style": "good"
   }, {
     "id": "5",
-    "text": "Non.",
+    "text": "Non",
     "style": "bad"
   }, {
     "id": "6",
-    "text": "Non.",
+    "text": "Non",
     "style": "bad"
   }, {
     "id": "7",
-    "text": "NA (Outil organisationnel).",
+    "text": "NA (Outil organisationnel)",
     "style": "neutrral"
   }
 ]
