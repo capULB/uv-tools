@@ -9,7 +9,7 @@
     "style": "gray-column"
   }, {
     "id": "3",
-    "text": "Pour définir des termes ou présenter des infos. Mieux utilisé si les participants créent eux-mêmes le glossaire",
+    "text": "Pour définir des termes ou présenter des infos. Mieux utilisé si les participant·es créent eux-mêmes le glossaire",
     "style": "good"
   }, {
     "id": "4",
@@ -17,11 +17,11 @@
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Pas conçu pour la discussion. Les participants peuvent seulement commenter ou évaluer les articles",
+    "text": "Pas conçu pour la discussion. Les participant·es peuvent seulement commenter ou évaluer les articles",
     "style": "neutral"
   }, {
     "id": "6",
-    "text": "Oui. La classe rassemble des ressources partagées. L'auteur peut modifier ses articles",
+    "text": "Oui. La classe rassemble des ressources partagées. L'auteur·e peut modifier ses articles",
     "style": "good"
   }, {
     "id": "7",
