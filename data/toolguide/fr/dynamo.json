@@ -5,7 +5,7 @@
     "style": "neutrral"
   }, {
     "id": "2",
-    "text": "TBD",
+    "text": "Intermédiaire. Prévoir des groupes stables (associés en groupement) et une communication préalable des objectifs pédagogiques.",
     "style": "gray-column"
   }, {
     "id": "3",
@@ -13,8 +13,8 @@
     "style": "bad"
   }, {
     "id": "4",
-    "text": "TBD",
-    "style": "bad"
+    "text": "Oui. Principalement en évaluation formative, pour diagnostiquer et améliorer la dynamique de groupe",
+    "style": "neutral"
   }, {
     "id": "5",
     "text": "Non",
