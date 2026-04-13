@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://docs.moodle.org/4x/fr/Feedback' target='_blank'><strong>Feedback</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Créer un formulaire simple",
+    "text": "<a href='https://docs.moodle.org/4x/fr/Feedback' target='_blank'><strong>Feedback</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Créer un formulaire simple, peut-être anonyme",
     "style": "header"
   }, {
     "id": "2",
