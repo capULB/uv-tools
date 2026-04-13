@@ -1,11 +1,11 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://docs.moodle.org/4x/fr/Questionnaire' target='_blank'><strong>Questionnaire</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Créer un formulaire avec, en option, possibilité de branchements conditionnels",
+    "text": "<a href='https://docs.moodle.org/4x/fr/Questionnaire' target='_blank'><strong>Questionnaire</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Créer un formulaire avec, en option, possibilité de branchements conditionnels, résultats agrégés et feedback",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile pour un usage de base. Intermédiaire pour l'usage des branchements conditionnels",
+    "text": "Facile pour un usage simple. Intermédiaire pour l'usage des branchements conditionnels et l'agrégation",
     "style": "gray-column"
   }, {
     "id": "3",
