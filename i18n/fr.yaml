@@ -10,7 +10,7 @@
 - id: ShareData
   translation: "Mettre en commun des données"
 - id: IdentifyTrends
-  translation: "Faire ressortir des tendances"
+  translation: "Récolter de l'information"
 - id: Manage
   translation: "Encadrer"
 # Row header strings, used in small scren rendering
