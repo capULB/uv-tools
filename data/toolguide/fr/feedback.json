@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://docs.moodle.org/4x/fr/Feedback' target='_blank'><strong>Feedback</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Recueillir des données auprès des élèves, sur n'importe quel sujet",
+    "text": "<a href='https://docs.moodle.org/4x/fr/Feedback' target='_blank'><strong>Feedback</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Créer un formulaire simple et pouvoir classer les réponses en catégories pour obtenir des résultats agrégés",
     "style": "header"
   }, {
     "id": "2",
