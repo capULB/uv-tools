@@ -13,12 +13,12 @@
     "style": "good"
   }, {
     "id": "4",
-    "text": "Non",
-    "style": "bad"
+    "text": "Possibilité d'évaluer les productions",
+    "style": "neutral"
   }, {
     "id": "5",
-    "text": "Non",
-    "style": "bad"
+    "text": "Oui",
+    "style": "good"
   }, {
     "id": "6",
     "text": "Edition collaborative possible",
