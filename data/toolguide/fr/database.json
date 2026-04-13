@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://docs.moodle.org/4x/fr/Base_de_donn%C3%A9es' target='_blank'><strong>Base de données</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Collecter, partager et de rechercher des artefacts créés",
+    "text": "<a href='https://docs.moodle.org/4x/fr/Base_de_donn%C3%A9es' target='_blank'><strong>Base de données</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Créer une base d'informations ou de productions grâce à une 'fiche' (formulaire) ; édition possible par les étudiant·es",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Délicat. Nécessite une conception préalable des modèles de fiches",
+    "text": "Délicat : très personnalisable mais non préconfigurée. Nécessite une conception préalable et une mise en page des fiches sous format tableau ou html",
     "style": "gray-column"
   }, {
     "id": "3",
-    "text": "Peut être utilisée pour présenter de l'info. Mieux utilisée si les participant·es contribuent",
+    "text": "Collecter, partager, rassembler de l'information",
     "style": "neutral"
   }, {
     "id": "4",
-    "text": "La polyvalence de la base de données permet l'évaluation. Concevoir une activité adéquate",
-    "style": "neutral"
+    "text": "Notation générale possible ; notation plus fine complexe à mettre en oeuvre",
+    "style": "good"
   }, {
     "id": "5",
     "text": "Pas conçu pour la discussion. Les participant·es peuvent commenter ou évaluer les fiches",
