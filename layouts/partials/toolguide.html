@@ -85,12 +85,17 @@
       {{ range .wooclap }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
       {{ end }}
-    </tr>        
+    </tr>
+    <tr>
+      {{ range .choice }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
     <tr class="title-row">
       <td colspan="7">{{ i18n "ACTIVITIES" }} – {{ i18n "ShareData" }}</td>
     </tr>
     <tr>
-      {{ range .glossary }}
+      {{ range .board }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
       {{ end }}
     </tr>
@@ -99,6 +104,12 @@
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
       {{ end }}
     </tr> 
+    <tr>
+      {{ range .glossary }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    
     <tr>
       {{ range .database }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
@@ -109,11 +120,7 @@
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
       {{ end }}
     </tr>
-    <tr>
-      {{ range .board }}
-      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
-      {{ end }}
-    </tr>
+    
     <tr>
       {{ range .wiki }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
@@ -121,11 +128,6 @@
     </tr>
     <tr class="title-row">
       <td colspan="7">{{ i18n "ACTIVITIES" }} – {{ i18n "IdentifyTrends" }}</td>
-    </tr>
-    <tr>
-      {{ range .choice }}
-      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
-      {{ end }}
     </tr>
     <tr>
       {{ range .feedback }}
