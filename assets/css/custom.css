@@ -90,6 +90,11 @@ Layout for desktop and laptop
   margin-bottom: 2ex;
 }
 
+.home h1 + h4 {
+  margin-top: -2ex;
+  margin-bottom: 3ex;
+}
+
 footer .copyright {
   margin: 1em 2em;
   padding: 0 15px;
