@@ -9,19 +9,19 @@
     "style": "gray-column"
   }, {
     "id": "3",
-    "text": "Feedback possible : immédiat ou à posteriori",
+    "text": "Permettre de voir la correction et/ou les réponses correctes, avec ou sans feedback",
     "style": "neutral"
   }, {
     "id": "4",
-    "text": "Evaluation formative ou certificative : une ou plusieurs tentatives, question déterminée ou aléatoire, indices ou taux de certitude, relecture possible, statistiques de réussite, etc.",
+    "text": "Evaluation formative ou certificative : une ou plusieurs tentatives, question déterminée ou aléatoire, indices ou taux de certitude, statistiques de réussite, etc.",
     "style": "good"
   }, {
     "id": "5",
-    "text": "Un remplissage en groupe pourrait être imaginé mais techniquement pas de mode groupe",
-    "style": "neutral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "6",
-    "text": "Non",
+    "text": "Un remplissage en groupe pourrait être imaginé mais techniquement pas de mode groupe",
     "style": "bad"
   }, {
     "id": "7",
