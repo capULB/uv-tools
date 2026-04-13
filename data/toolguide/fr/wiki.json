@@ -1,27 +1,27 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://docs.moodle.org/4x/fr/Wiki' target='_blank'><strong>Wiki</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Permettre la création de pages en collaboration, comme Wikipedia",
+    "text": "<a href='https://docs.moodle.org/4x/fr/Wiki' target='_blank'><strong>Wiki</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Permettre la création collaborative de pages organisées",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Délicat. Définir les réglages individuels et de groupe. Parfois difficile à maîtriser",
+    "text": "Avancé et assez peu 'userfriendly'",
     "style": "gray-column"
   }, {
     "id": "3",
-    "text": "Oui. Autorise les modifications du formateur·rice seul ou de chacun·e des participant·es",
+    "text": "Collecte et partage d'informations",
     "style": "good"
   }, {
     "id": "4",
-    "text": "La polyvalence du wiki permet l'évaluation. Concevoir une activité adéquate",
-    "style": "neutral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "5",
-    "text": "Pas adapté pour des discussions. À utiliser pour la planification, le brainstorming, la collaboration, etc",
-    "style": "neutral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "6",
-    "text": "Oui. Les participant·es peuvent collaborer pour explorer des sujets, en discuter et écrire ensemble",
+    "text": "Edition collaborative possible",
     "style": "good"
   }, {
     "id": "7",
