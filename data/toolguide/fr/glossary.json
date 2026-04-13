@@ -1,28 +1,28 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://docs.moodle.org/4x/fr/Glossaire' target='_blank'><strong>Glossaire</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Rassembler des ressources ou collecter des informations",
+    "text": "<a href='https://docs.moodle.org/4x/fr/Glossaire' target='_blank'><strong>Glossaire</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Rassembler des ressources ou collecter des informations ; édition possible par les étudiant·es",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile. Les réglages initiaux sont adéquats. Configurer le format d'affichage pour voir le nom de l'auteur·e",
+    "text": "Intermédiaire. Options de publication des articles, approbation, format d'affichage à gérer",
     "style": "gray-column"
   }, {
     "id": "3",
-    "text": "Pour définir des termes ou présenter des infos. Mieux utilisé si les participant·es créent eux-mêmes le glossaire",
+    "text": "Définir des termes, présenter des infos, rassembler une base de connaissance, créer une FAQ, etc.",
     "style": "good"
   }, {
     "id": "4",
-    "text": "La polyvalence du glossaire permet l'évaluation. Concevoir une activité adéquate",
+    "text": "Il est possible d'évaluer les messages par notes ou barème ; plutôt utile pour partager une appréciation de type 'j'aime' ou 'utile'",
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Partage des articles possibles, peuvent être commentés et/ou évalués par les apprenant·es",
+    "text": "Partage des articles possibles, peuvent être commentés et/ou évalués par l'enseignant·e et/ou les apprenant·es",
     "style": "good"
   }, {
     "id": "6",
-    "text": "Oui. La classe rassemble des ressources partagées. L'auteur·e peut modifier ses articles",
-    "style": "good"
+    "text": "Une création du contenu peut être imaginé en groupe mais édition par un·e seul·e auteur·e",
+    "style": "neutral"
   }, {
     "id": "7",
     "text": "<ul><li>Comprendre</li><li>Appliquer</li><li>Analyser</li><li>Évaluer</li><li>Créer</li></ul>",
