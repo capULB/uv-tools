@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://moodle.com/fr/news/showcase-share-student-folder-moodle-plugin-review/' target='_blank'><strong>Partage de fichiers</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Laisser les étudiant·es déposer des fichiers visibles des autres étudiant·es",
+    "text": "<a href='https://moodle.com/fr/news/showcase-share-student-folder-moodle-plugin-review/' target='_blank'><strong>Partage de fichiers</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Laisser les étudiant·es déposer des fichiers visibles des autres étudiant·es ; ou partager les fichiers déposés dans un devoir",
     "style": "neutrral"
   }, {
     "id": "2",
@@ -9,16 +9,16 @@
     "style": "gray-column"
   }, {
     "id": "3",
-    "text": "Oui. Permet de transmettre des documents, supports de cours ou ressources complémentaires par et pour les étudiant·es. Sous certaines conditions, le partage des meilleurs devoirs rendus est possible",
+    "text": "Oui. Permet de transmettre des documents, productions, ressources complémentaires par et pour les étudiant·es",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Non, mais peut être combiné avec d’autres activités (quiz, devoirs) pour pouvoir évaluer",
+    "text": "Non",
     "style": "bad"
   }, {
     "id": "5",
-    "text": "Non",
-    "style": "bad"
+    "text": "Peut servir de référence/base pour un échange",
+    "style": "neutral"
   }, {
     "id": "6",
     "text": "Non",
