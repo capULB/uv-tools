@@ -1,11 +1,11 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://uv.ulb.ac.be/mod/page/view.php?id=387765' target='_blank'><strong>Contenu interactif (H5P)</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Créer une activité pédagogique interactive",
+    "text": "<a href='https://uv.ulb.ac.be/mod/page/view.php?id=387765' target='_blank'><strong>H5P (Contenu interactif)</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Créer du contenu interactif ou des quiz formatifs",
     "style": "neutrral"
   }, {
     "id": "2",
-    "text": "Intermédiaire. Propose une quarantaine de modules interactifs préconfigurés, de deux types : présentation ludique de contenu ou système de quiz simples. Peut être intégré directement dans une page",
+    "text": "Intermédiaire : modules interactifs préconfigurés à personnaliser. Peut être intégré dans une page pour une interaction directe à cet endroit",
     "style": "gray-column"
   }, {
     "id": "3",
@@ -17,11 +17,11 @@
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Un remplissage en groupe pourrait être imaginé mais techniquement pas de mode groupe",
-    "style": "neutral"
+    "text": "Non mais peut servir de référence/base pour un exercice",
+    "style": "bad"
   }, {
     "id": "6",
-    "text": "Non",
+    "text": "Un remplissage en groupe pourrait être imaginé mais techniquement pas de mode groupe",
     "style": "bad"
   }, {
     "id": "7",
