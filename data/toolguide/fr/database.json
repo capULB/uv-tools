@@ -5,7 +5,7 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "Délicat : très personnalisable mais non préconfigurée. Nécessite une conception préalable et une mise en page des fiches sous format tableau ou html",
+    "text": "Délicat : très personnalisable mais non préconfigurée. S'apparente à de l'<a href='https://www.wearethewords.com/rediger-pour-le-web-grands-principes-et-bonnes-pratiques/' target='_blank'>édition web</a> <i class='fa fa-external-link' aria-hidden='true'></i> pour la conception et mise en page des fiches",
     "style": "gray-column"
   }, {
     "id": "3",
@@ -13,11 +13,11 @@
     "style": "neutral"
   }, {
     "id": "4",
-    "text": "Notation générale possible ; notation plus fine complexe à mettre en oeuvre",
+    "text": "Notation générale possible ; notation plus fine possible mais complexe à mettre en oeuvre",
     "style": "good"
   }, {
     "id": "5",
-    "text": "Pas conçu pour la discussion. Les participant·es peuvent commenter ou évaluer les fiches",
+    "text": "Les participant·es peuvent commenter des fiches",
     "style": "neutral"
   }, {
     "id": "6",
