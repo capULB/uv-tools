@@ -9,16 +9,16 @@
     "style": "gray-column"
   }, {
     "id": "3",
-    "text": "Permet de dynamiser les échanges enseignant·es-étudiant·es en auditoire",
-    "style": "good"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "4",
-    "text": "Peut être utilisé comme outil d'évaluation formative et diagnostique via QCM, Vrai/Faux, Sondage, Nuages de mots, Question ouverte, etc.",
+    "text": "Peut être utilisé comme outil d'évaluation formative et diagnostique via QCM, Vrai/Faux, Sondage, Nuages de mots, Question ouverte, etc. Utiliser plutôt le test en cas d'évaluation certificative",
     "style": "good"
   }, {
     "id": "5",
-    "text": "Oui indirectement. Certains types d'activités (vote, questionnaire,...) permettent de faire interagir les étudiant·es autour d'une question ou d'un problème en leur permettant d'échanger leurs avis",
-    "style": "neutral"
+    "text": "Permet de dynamiser les échanges enseignant·es-étudiant·es en auditoire, ou d'initier des débats entre étudiant·es",
+    "style": "good"
   }, {
     "id": "6",
     "text": "Non",
