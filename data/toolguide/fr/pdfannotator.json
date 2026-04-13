@@ -1,23 +1,23 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://uv.ulb.ac.be/mod/page/view.php?id=955604' target='_blank'><strong>Annotation PDF</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Créer une ressource interactive dans laquelle échanger directement avec ses étudiant·es",
+    "text": "<a href='https://uv.ulb.ac.be/mod/page/view.php?id=955604' target='_blank'><strong>Annotation PDF</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Demander aux étudiant·es de commenter un fichier pdf",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile à moyenne : nécessite le partage d'un document PDF et la configuration des droits d'annotation pour les étudiant·es. Peut prendre du temps si les étudiant·es annotent beaucoup et sont nombreux à poser à des questions",
+    "text": "Configuration facile ; Peut prendre du temps si les étudiant·es annotent beaucoup et sont nombreux à poser à des questions",
     "style": "gray-column"
   }, {
     "id": "3",
-    "text": "Oui. les annotations peuvent servir à poser des questions, communiquer des remarques ou clarifier des points, entre enseignant·es et/ou étudiant·es",
+    "text": "Les annotations peuvent servir à poser des questions, communiquer des remarques ou clarifier des points, entre enseignant·es et/ou étudiant·es",
     "style": "good"
   }, {
     "id": "4",
-    "text": "Oui indirectement, de manière formative. Il est possible de mettre en évidence l’utilité relative de chaque annotation par l’intermédiaire d’un système de vote",
-    "style": "neutral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "5",
-    "text": "Oui, en particulier si l'outil est paramétré pour rendre visibles les annotations de l'ensemble des participant·es. Favorise la compréhension commune et permet des discussions croisées sur base de contenu identifié dans le PDF",
+    "text": "Favorise la compréhension commune et permet des discussions croisées sur base de contenu identifié dans le PDF",
     "style": "good"
   }, {
     "id": "6",
@@ -25,7 +25,7 @@
     "style": "bad"
   }, {
     "id": "7",
-    "text": "<ul><li>Comprendre</li><li>Analyser</li><li>Évaluer</li><li>Créer</li></ul>",
+    "text": "<ul><li>Comprendre</li><li>Analyser</li><li>Créer</li></ul>",
     "style": "neutrral"
   }
 ]
