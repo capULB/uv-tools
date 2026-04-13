@@ -91,6 +91,19 @@
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
       {{ end }}
     </tr>
+     <tr class="title-row">
+      <td colspan="7">{{ i18n "ACTIVITIES" }} – {{ i18n "IdentifyTrends" }}</td>
+    </tr>
+    <tr>
+      {{ range .feedback }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr>
+      {{ range .questionnaire }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
     <tr class="title-row">
       <td colspan="7">{{ i18n "ACTIVITIES" }} – {{ i18n "ShareData" }}</td>
     </tr>
@@ -123,24 +136,6 @@
     
     <tr>
       {{ range .wiki }}
-      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
-      {{ end }}
-    </tr>
-    <tr class="title-row">
-      <td colspan="7">{{ i18n "ACTIVITIES" }} – {{ i18n "IdentifyTrends" }}</td>
-    </tr>
-    <tr>
-      {{ range .feedback }}
-      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
-      {{ end }}
-    </tr>
-    <tr>
-      {{ range .survey }}
-      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
-      {{ end }}
-    </tr>
-    <tr>
-      {{ range .questionnaire }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
       {{ end }}
     </tr>
