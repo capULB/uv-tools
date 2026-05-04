@@ -8,11 +8,11 @@
 - id: InformEvaluate
   translation: "S'exercer et évaluer"
 - id: ShareData
-  translation: "Mettre en commun des données"
+  translation: "Mettre en commun"
 - id: IdentifyTrends
   translation: "Récolter de l'information"
 - id: Manage
-  translation: "Encadrer"
+  translation: "Organiser et encadrer"
 # Row header strings, used in small scren rendering
 - id: EaseOfUse
   translation: "Facilité"
