@@ -9,20 +9,20 @@
     "style": "gray-column-color"
   }, {
     "id": "3",
-    "text": "Permet un feedback constructif sur les productions, permet un partage de certains travaux",
-    "style": "good"
+    "text": "Permet un feedback de ses pairs en plus de celui de l'enseignant·e, permet un partage de travaux choisis",
+    "style": "neutral"
   }, {
     "id": "4",
     "text": "Il s'agit plutôt d'une méthode d'apprentissage interactive sur comment évaluer, exercer l'esprit critique, etc.",
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Comporte un aspect réflexif sur les productions de ses pairs ; peut servir de référence/base pour une activité d'échange",
+    "text": "Comporte un aspect réflexif sur les productions de ses pairs",
     "style": "good"
   }, {
     "id": "6",
-    "text": "Non",
-    "style": "bad"
+    "text": "Le dépôt de fichier(s) en groupe n'est pas techniquement prévu mais l'activité peut être organisée de cette façon",
+    "style": "good"
   }, {
     "id": "7",
     "text": "<ul><li>Se rappeler</li><li>Comprendre</li><li>Appliquer</li><li>Analyser</li></ul>",
