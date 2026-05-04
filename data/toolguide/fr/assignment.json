@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://uv.ulb.ac.be/mod/book/view.php?id=560903' target='_blank'><strong>Devoir</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Proposer une tâche à réaliser, récolter les résultats (fichiers) et les évaluer",
+    "text": "<a href='https://uv.ulb.ac.be/mod/book/view.php?id=560903' target='_blank'><strong>Devoir</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Récolter des travaux, donner du feedback et les évaluer",
     "style": "header"
   }, {
     "id": "2",
@@ -13,7 +13,7 @@
     "style": "neutral"
   }, {
     "id": "4",
-    "text": "Limitation du délai de dépôt, analyse de plagiat, différents types de consignes et de notations possibles",
+    "text": "Limitation du délai de dépôt, analyse de plagiat, différents types de consignes, notation simple ou avec grille critériée",
     "style": "good"
   }, {
     "id": "5",
