@@ -5,11 +5,11 @@
     "style": "header"
   }, {
     "id": "2",
-    "text": "Facile : le canal 'Annonces' est présent par défaut et préréglé à cet usage ; le forum comme activité d'apprentissage comporte plus d'options à choisir selon son objectif",
+    "text": "Facile : le canal 'Annonces' est présent par défaut et préréglé ; un nouveau forum est à configurer selon l'objectif de l'activité",
     "style": "gray-column"
   }, {
     "id": "3",
-    "text": "Le canal 'Annonces' est dédié à un échange enseignant·e > étudiant·es ; créer un nouveau forum permet aux étudiant·es de déposer du contenu à partager",
+    "text": "Le canal 'Annonces' est dédié à un échange enseignant·e > étudiant·es et préréglé à cet usage (Pour un simple partage de contenu, voir Partage de fichiers, glossaire, base de données, tableau) ; peut servir pour des questions/réponses",
     "style": "good"
   }, {
     "id": "4",
@@ -21,7 +21,7 @@
     "style": "good"
   }, {
     "id": "6",
-    "text": "Indirectement : explorer des thématiques et réfléchir ensemble, des productions communes peuvent être partagées",
+    "text": "Indirectement : explorer des thématiques et réfléchir ensemble",
     "style": "neutral"
   }, {
     "id": "7",
