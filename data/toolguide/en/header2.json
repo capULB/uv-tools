@@ -1,23 +1,23 @@
 [
   {
     "id": "1",
-    "text": "Tool ↓",
+    "text": "Moodle Tool <span class=\"flush-right\">↓</span><br><br>",
     "style": "header tool"
   }, {
     "id": "2",
-    "text": "Simple and quick to set up yourself?",
+    "text": "Ease of implementation<span class=\"flush-right\">↓</span><br><br>",
     "style": "header"
   }, {
     "id": "3",
-    "text": "A tool for disseminating information from you to your students?",
+    "text": "A tool for disseminating information ?",
     "style": "header"
   }, {
     "id": "4",
-    "text": "Will this tool allow you to assess your students' learning?",
+    "text": "Will this tool allow you to assess learning?",
     "style": "header"
   }, {
     "id": "5",
-    "text": "Can it be used for communication and interaction among participants?",
+    "text": "A tool that encourages interaction between participants or between teacher and participants?",
     "style": "header"
   }, {
     "id": "6",
