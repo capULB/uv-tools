@@ -12,7 +12,7 @@
 - id: IdentifyTrends
   translation: "Récolter de l'information"
 - id: Manage
-  translation: "Organiser et encadrer"
+  translation: "Organiser et guider"
 # Row header strings, used in small scren rendering
 - id: EaseOfUse
   translation: "Facilité"
