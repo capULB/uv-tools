@@ -17,11 +17,11 @@
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Peut servir de référence/base pour un échange",
-    "style": "neutral"
+    "text": "Non",
+    "style": "bad"
   }, {
     "id": "6",
-    "text": "Oui",
+    "text": "Un dépôt commun peut être imaginé ou envisager le tableau final comme une co-création",
     "style": "good"
   }, {
     "id": "7",
