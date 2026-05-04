@@ -5,11 +5,11 @@
     "style": "neutrral"
   }, {
     "id": "2",
-    "text": "Intermédiaire : modules interactifs préconfigurés à personnaliser. Peut être intégré dans une page pour une interaction directe à cet endroit",
+    "text": "Intermédiaire : modules interactifs préconfigurés à personnaliser. Peut être utilisé comme activité isolée ou intégré dans une page (zone texte) pour une interaction directe à cet endroit",
     "style": "gray-column"
   }, {
     "id": "3",
-    "text": "Permet de proposer du contenu de façon plus ludique, voire qui demande de l'interaction",
+    "text": "Permet de proposer du contenu de façon plus ludique, voire qui demande de l'interaction (clics pour afficher du texte)",
     "style": "good"
   }, {
     "id": "4",
@@ -17,7 +17,7 @@
     "style": "neutral"
   }, {
     "id": "5",
-    "text": "Non mais peut servir de référence/base pour un exercice",
+    "text": "Non",
     "style": "bad"
   }, {
     "id": "6",
