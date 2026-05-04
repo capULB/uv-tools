@@ -1,23 +1,23 @@
 [
   {
     "id": "1",
-    "text": "Ease of use / Pedagogical Goal<span class=\"flush-right\">→</span>",
+    "text": "",
     "style": "header"
   }, {
     "id": "2",
-    "text": "Ease of use",
+    "text": "Pedagogical Goal <span class=\"flush-right\">→</span>",
     "style": "header-strong"
   }, {
     "id": "3",
-    "text": "Information Transfer",
+    "text": "Information transfer",
     "style": "header-strong"
   }, {
     "id": "4",
-    "text": "Assess learning",
+    "text": "Assessement",
     "style": "header-strong"
   }, {
     "id": "5",
-    "text": "Communication & interaction",
+    "text": "Interaction",
     "style": "header-strong"
   }, {
     "id": "6",
@@ -25,7 +25,7 @@
     "style": "header-strong"
   }, {
     "id": "7",
-    "text": "Bloom's Taxonomy",
+    "text": "Possible levels Taxonomy (Bloom)",
     "style": "header-strong"
   }
 ]
