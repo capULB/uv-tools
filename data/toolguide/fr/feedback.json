@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://docs.moodle.org/4x/fr/Feedback' target='_blank'><strong>Feedback</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Créer un formulaire simple, peut-être anonyme",
+    "text": "<a href='https://docs.moodle.org/4x/fr/Feedback' target='_blank'><strong>Feedback</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Créer un formulaire simple, peut être anonyme",
     "style": "header"
   }, {
     "id": "2",
@@ -14,7 +14,7 @@
   }, {
     "id": "4",
     "text": "Permet de récupérer du feedback mais n'est pas conçu pour être corrigé. Utiliser plutôt le test ou devoir en cas d'évaluation formelle ; le sondage ou Wooclap pour évaluer l'état de connaissance ponctuel",
-    "style": "neutral"
+    "style": "bad"
   }, {
     "id": "5",
     "text": "Non",
