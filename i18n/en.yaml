@@ -11,6 +11,8 @@
   translation: "Share"
 - id: IdentifyTrends
   translation: "Gather information"
+  - id: Manage
+  translation: "Organize et guide"
 # Row header strings, used in small scren rendering
 - id: EaseOfUse
   translation: "Ease of use"
