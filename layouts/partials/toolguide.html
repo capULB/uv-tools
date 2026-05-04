@@ -86,13 +86,13 @@
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
       {{ end }}
     </tr>
+     <tr class="title-row">
+      <td colspan="7">{{ i18n "ACTIVITIES" }} – {{ i18n "IdentifyTrends" }}</td>
+    </tr>
     <tr>
       {{ range .choice }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
       {{ end }}
-    </tr>
-     <tr class="title-row">
-      <td colspan="7">{{ i18n "ACTIVITIES" }} – {{ i18n "IdentifyTrends" }}</td>
     </tr>
     <tr>
       {{ range .feedback }}
