@@ -1,16 +1,16 @@
 # Column header strings
-- id: Resources
-  translation: "Resources"
-- id: Activities
-  translation: "Activities"
+- id: RESSOURCES
+  translation: "RESSOURCES"
+- id: ACTIVITIES
+  translation: "ACTIVITIES"
 - id: Inform
-  translation: "Inform"
+  translation: "Inform and explain"
 - id: InformEvaluate
-  translation: "Inform and Evaluate"
+  translation: "Exercice and evaluate"
 - id: ShareData
-  translation: "Share Data"
+  translation: "Share"
 - id: IdentifyTrends
-  translation: "Identify Trends"
+  translation: "Gather information"
 # Row header strings, used in small scren rendering
 - id: EaseOfUse
   translation: "Ease of use"
