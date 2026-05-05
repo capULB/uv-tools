@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://uv.ulb.ac.be/pluginfile.php/2703296/mod_resource/content/4/Moodle19b-Suivi_participants_liste_taches.pdf' target='_blank'><strong>Liste de tâches</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Suivre l'évolution des participant·es et valider ou non leur progression",
+    "text": "<a href='https://uv.ulb.ac.be/pluginfile.php/2703296/mod_resource/content/4/Moodle19b-Suivi_participants_liste_taches.pdf' target='_blank'><strong>Liste de tâches</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Etablir une liste de tâche, suivre leur évolution, les valider ou les commenter",
     "style": "header"
   }, {
     "id": "2",
@@ -9,7 +9,7 @@
     "style": "gray-column"
   }, {
     "id": "3",
-    "text": "Non. La liste de tâches est avant tout un outil de suivi de progression et/ou de planification individuelle en autonomie",
+    "text": "Non",
     "style": "bad"
   }, {
     "id": "4",
@@ -17,8 +17,8 @@
     "style": "bad"
   }, {
     "id": "5",
-    "text": "Non",
-    "style": "bad"
+    "text": "Système de commentaires et feedback possible",
+    "style": "neutral"
   }, {
     "id": "6",
     "text": "Non",
