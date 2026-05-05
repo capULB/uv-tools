@@ -3,7 +3,7 @@ title: About
 description: What is the UV Tool Guide ?
 ---
 
-This guide is a reference card for creating content on the [Université Virtuelle][UV] (UV), the official e-learning platform of [Université libre de Bruxelles][ULB] (ULB), based on [Moodle](Moodle) version 4.x (sept 2023, reviewed mai 2026). 
+This guide is a reference card for creating content on the [Université Virtuelle][UV] (UV), the official e-learning platform of [Université libre de Bruxelles][ULB] (ULB), based on [Moodle](Moodle) version 4.x (sept 2023, reviewed may 2026). 
 
 Designed for teachers, educators and trainers, this table lists **available ressources and activities**, what tool to use according to the **pedagogical goal** to achieve, with mentions the **[Bloom] taxonomic levels** that can be reached.
 
